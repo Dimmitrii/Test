@@ -1,0 +1,910 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		.hd1{
+			width: 100%;
+			height: 141px;
+			background-color: #F0F0F0;
+		}
+		.hd2{
+			width: 1300px;
+			height: 141px;
+			margin: 0 auto;
+		}
+		.nv1{
+			width: 100%;
+			height: 67px;
+		}
+		.nv2{
+			height: 67px;
+			width: 1300px;
+			margin: 0 auto;
+			line-height: 67px;
+		}
+		.body{
+			margin: 0;
+		}
+		.inp{
+			width: 620px;
+			height: 47px;
+			border-top-left-radius: 44px;
+			border-bottom-left-radius: 44px;
+			background-image: url(magnifying-glass1.png);
+			background-repeat: no-repeat;
+			background-position: 17px 12px;
+			background-color: #F5F5F5;
+			border:none;
+			outline: none;
+		}
+		.inp0{
+			width: 620px;
+			height: 47px;
+			border-top-left-radius: 44px;
+			border-bottom-left-radius: 44px;
+			background-image: url(magnifying-glass1.png);
+			background-repeat: no-repeat;
+			background-position: 17px 12px;
+			background-color: #F5F5F5;
+			border:none;
+			outline: none;
+			display: none;
+		}
+
+		.inp1{
+			width: 620px;
+			height: 47px;
+			border-top-left-radius: 44px;
+			border-bottom-left-radius: 44px;
+			background-repeat: no-repeat;
+			background-color: #F5F5F5;
+			border:none;
+			outline: none;
+		}
+		.inp10{
+			width: 620px;
+			height: 47px;
+			border-top-left-radius: 44px;
+			border-bottom-left-radius: 44px;
+			background-repeat: no-repeat;
+			background-color: #F5F5F5;
+			border:none;
+			outline: none;
+			display: none;
+		}
+		.dv1{
+			font-family: Roboto;
+			font-size: 30px;
+			font-weight: bold;
+			float: left;
+			padding: 0px;
+			margin: 57px 0 0 0;
+		}
+		.dv2{
+			float: left;
+			margin: 45px 0 0 0;
+		}
+		.dv3{
+			float: right;
+			margin: 45px 0 0 0;
+		}
+		.dv4{
+			width: 110px;
+			height: 47px;
+			background-color: #37CA8A;
+			float: left;
+			border-top-right-radius: 44px;
+			border-bottom-right-radius: 44px;
+			color: white;
+			font-size: 18px;
+			box-shadow: 0px 4px 2px rgba(0,0,0,0.2);
+			line-height: 47px;
+			/*padding:0 52px 0 46px;*/
+			margin: 45px 0px 0 0;
+		}
+		.sp1{
+			color: #37CA8A;
+		}
+		.dv5{
+			float: left;
+			font-size: 30px;
+			font-weight: bold;
+			margin: 57px 170px 0 0;
+		}
+		.art1{
+			width: 100%;
+			height:426px;
+			background-image: url(op.png);
+			background-size: cover;
+			padding: 170px 0 0 0;
+		}
+		.dv6{
+			float: left;
+			font-size: 16px;r
+		}
+		.dv7{
+			float: left;
+			font-size: 16px;
+		}
+		.dv8{
+			float: left;
+			font-size: 16px;
+		}
+		.dv9{
+			float: left;
+			font-size: 16px;
+		}
+		.dv10{
+			float: left;
+			font-size: 16px;
+		}
+		.dv11{
+			float: left;
+			font-size: 16px;
+		}
+		.dv12{
+			float: left;
+			font-size: 16px;
+		}
+		.dv13{
+			float: left;
+			font-size: 16px;
+		}
+		.dv14{
+			float: left;
+			margin: 0 17px 0px 27px;
+			line-height: 63px;
+		}
+		.dv15{
+			float: left;
+			line-height: 63px;
+
+			margin: 0 19px 0px 26px;
+		}
+		.dv16{
+			float: left;
+			line-height: 63px;
+			margin: 0 30px 0px 29px;
+		}
+
+		.dv17{
+			float: left;
+			line-height: 63px;
+			margin: 0 23px 0px 26px;
+		}
+		.dv18{
+			float: left;
+			line-height: 63px;
+			margin: 0 32px 0px 30px;
+		}
+		.dv19{
+			float: left;
+			line-height: 63px;
+			margin: 0 32px 0px 30px;
+		}
+		.dv20{
+			float: left;
+			line-height: 63px;
+			margin: 0 31px 0px 34px;
+		}
+		.dv21{
+			width: 269px;
+			height: 53px;
+			background-color: #37CA8A;
+			border-radius: 40px;
+			margin: 0 auto;
+			line-height: 53px;
+			text-align: center;
+			color: white;
+			font-size: 18px;
+		}
+		.dv22{
+			color: #37CA8A;
+			font-size: 36px;
+			margin: 0 auto 42px auto;
+			width: 570px;
+		}
+		.dv23{
+			font-size: 24px;
+			margin: 0 auto 35px auto;
+			width: 465px;
+		}
+		.mn{
+			width: 100%;
+			height: 2043px;
+			background-color: white;
+		}
+		.mn1{
+			width: 1100px;
+			height: 2043px;
+			margin: 0 auto;
+		}
+		.art2{
+			width: 1100px;
+			height: 594px;
+			float: left;
+			margin: 157px 0 0 0; 
+		}
+		.art21{
+			width: 1100px;
+			height: 1880px;
+			float: left;
+			margin: 157px 0 0 0; 
+		}
+		.art3{
+			width: 1100px;
+			height: 630px;
+			float: left;
+		}
+		.art31{
+			width: 1100px;
+			height: 630px;
+			float: left;
+			margin: 157px 0 0 0;
+			height: 1880px;
+		}
+		.art4{
+			width: 1100px;
+			height: 662px;
+			float: left;
+		}
+		.art41{
+			width: 1100px;
+			height: 1880px;
+			float: left;
+			margin: 157px 0 0 0;
+		}
+		.dv24{
+			display: inline-block;
+			float: left;
+			font-size: 24px;
+			margin: 0 54px 0 0;
+		}
+		.dv25{
+			display: inline-block;
+			float: right;
+			font-size: 14px;
+			margin: 5px 0 0 0;
+		}
+		.dv26{
+			width: 750px;
+			height: 20px;
+			float: left;
+		}
+		.ft{
+			width: 100%;
+			height: 125px;
+			background-color: #F0F0F0;
+		}
+		.ft1{
+			width: 1100px;
+			height: 125px;
+			line-height: 125px;
+			margin: 0 auto;
+		}
+		.dv27{
+			float: left;
+		}
+		.dv28{
+			float: right;
+		}
+		footer img{
+			vertical-align: middle;
+			margin: 0 20px 0 0;
+		}
+		.ig{
+			margin: 0;
+		}
+		.dv29{
+			width: 255px;
+			height: 419px;
+			margin: 45px 26px 0 0;
+			float: left;
+			border-radius: 16px;
+			background-color: white;
+			box-shadow: 0px 4px 2px rgba(0,0,0,0.2);
+		}
+		.dv30{
+			width: 44px;
+			height: 44px;
+			border-radius: 44px;
+			float: right;
+			background-color: #C4C4C4;
+			transform: translateY(-200px);
+			margin: 0 10px 0 0;
+		}
+		.dv300{
+			width: 44px;
+			height: 44px;
+			border-radius: 44px;
+			float: right;
+			background-color: #C4C4C4;
+			transform: translateY(-200px);
+			margin: 0 10px 0 0;
+			display: none;
+		}
+		.dv301{
+			width: 44px;
+			height: 44px;
+			border-radius: 44px;
+			float: right;
+			background-color: #37CA8A;
+			transform: translateY(-200px);
+			margin: 0 10px 0 0;
+		}
+		.dv3010{
+			width: 44px;
+			height: 44px;
+			border-radius: 44px;
+			float: right;
+			background-color: #37CA8A;
+			transform: translateY(-200px);
+			margin: 0 10px 0 0;
+			display: none;
+		}
+		.dv31{
+			width: 255px;
+			height: 206px;
+			border-radius: 16px;
+		}
+		.dv32{
+			width: 255px;
+			height: 213px;
+		}
+		.dv33{
+			width: 1100px;
+			height: 20px;
+			float: left;
+		}
+		.dv29:nth-child(5){
+			margin: 45px 0 0 0;
+		}
+		.dv29:nth-child(9){
+			margin: 45px 0 0 0;
+		}
+		.dv29:nth-child(13){
+			margin: 45px 0 0 0;
+		}
+		.dv29:nth-child(17){
+			margin: 45px 0 0 0;
+		}
+		.ig1{
+			float: left;
+			/*margin: 0 0 0 20px;*/
+		}
+		.titl{
+			font-size: 21px;
+			color: #37CA8A;
+			margin: 24px 0 10px 18px;
+		}
+		.za{
+			margin: 48px 0 15px 18px;
+			font-size: 18px;
+		}
+		.loc{
+			font-size: 14px;
+			margin: 0 0 0 18px;
+		}
+		.itemi{
+			font-size: 16px;
+			margin: 0 0 0 18px;
+		}
+		.ig2{
+			margin: 8px 0 0 8px;
+		}
+		.reg{
+			position: fixed;
+            bottom: 0;
+            height: 100%;
+            width: 100%;
+            background-color: rgba(0,0,0,0.65);
+		}
+		.reg1{
+			width: 410px;
+			height: 300px;
+			background-color: white;
+			margin: 200px auto;
+			border-radius: 5px;
+		}
+		.reg2{
+			width: 410px;
+			height: 60px
+		}
+		.reg3{
+			width: 205px;
+			height: 60px;
+			text-align: center;
+			float: left;
+			font-size: 24px;
+			line-height: 60px;
+			color: black;
+			border-bottom: 2px solid black;
+		}
+		.reg4{
+			width: 205px;
+			height: 60px;
+			text-align: center;
+			float: left;
+			font-size: 24px;
+			line-height: 60px;
+			color: #869098;
+			border-bottom: 2px solid #869098;
+		}
+		.reg5{
+			width: 410px;
+			height: 150px;
+		}
+		.reg6{
+			width: 410px;
+			height: 63px;
+		}
+		.reg7{
+			width: 410px;
+			height: 63px;
+		}
+		.vvod1{
+			width: 410px;
+			height: 44px;
+			border-color: #C7CBCE;
+		}
+	</style>
+</head>
+<body class="body">
+	<header class="hd1">
+		<div class="hd2">
+			<div class="dv1"> <img src="sealed-parcel.png"> </div><div class="dv5">O<span class="sp1">B</span>MEN</div> <div class="dv2"><input type="text" id="search" class="inp"></div> <button class="dv4"> Найти</button> <div class="dv3"><img src="avatar-user.png"></div>
+		</div>
+		</header>
+		<nav class="nv1">
+			<div class="nv2">
+				<div class="dv6">ОДЕЖДА</div><div class="dv14"><img src="Ellipse.png"></div><div class="dv7">СПОРТ И ТУРИЗМ</div><div class="dv15"><img src="Ellipse.png"></div><div class="dv8">КРАСОТА И ЗДОРОВЬЕ</div><div class="dv16"><img src="Ellipse.png"></div><div class="dv9">АВТО,ТРАНСПОРТ</div><div class="dv17"><img src="Ellipse.png"></div><div class="dv10">ВСЁ ДЛЯ ДОМА</div><div class="dv18"><img src="Ellipse.png"></div><div class="dv11">ТЕХНИКА</div><div class="dv19"><img src="Ellipse.png"></div><div class="dv12">АКСЕССУАРЫ</div><div class="dv20"><img src="Ellipse.png"></div><div  class="dv13">КНИГИ</div>
+			</div>
+		</nav>
+		<article class="art1">
+			<div class="dv22">Накопилась много ненужных вещей?</div>
+			<div class="dv23">Наш сервис поможет обменять их на нужные</div>
+			<div class="dv21">Разместить свою вещь</div>
+		</article>
+		<main class="mn">
+			<div class="mn1">
+			    <article class="art2">
+				</article>
+				<article class="art3">
+				</article>
+				<article class="art4">
+				</article>
+			</div>
+		</main>
+		<footer class="ft">
+			<div class="ft1">
+			<div class="dv27">© 2019 Obmen.by</div><div class="dv28"><img src="gmail.png"><img src="vk.png"><img src="instagram.png"><img src="facebook.png" class="ig"></div>
+		    </div>
+		</footer>
+		<script type="text/javascript">
+			var avatar = document.querySelector(".dv3");
+			avatar.onclick = function(){
+				var reg = document.createElement("div");
+				reg.className = "reg";
+				document.body.appendChild(reg);
+				var reg1 = document.createElement("div");
+				reg1.className = "reg1";
+				reg.appendChild(reg1);
+				var reg2 = document.createElement("div");
+				var reg3 = document.createElement("div");
+				var reg4 = document.createElement("div");
+				reg2.className = "reg2";
+				reg3.className = "reg3";
+				reg4.className = "reg4";
+				reg1.appendChild(reg2);
+				reg2.appendChild(reg3);
+				reg2.appendChild(reg4);
+				reg3.textContent = "Вход";
+				reg4.textContent = "Регестрация";
+				var reg5 = document.createElement("div");
+				reg5.className = "reg5";
+				reg1.appendChild(reg5);
+				var reg6 = document.createElement("div");
+				var reg7 = document.createElement("div");
+				reg6.className = "reg6";
+				reg7.className = "reg7";
+				var vvod1 = document.createElement("input");
+				var vvod2 = document.createElement("inpit");
+				reg6.textContent = "E-mail";
+				reg7.textContent = "Пароль";
+
+			}
+			var search = document.getElementById("search");
+			var div = document.createElement("div");
+			div.setAttribute("class","dv24");
+			div.textContent = "Жаркий обмен";
+			var at1 = document.querySelector(".art2");
+			var div14 = document.createElement("div");
+			div14.className = "dv33";
+			at1.appendChild(div14);
+			div14.appendChild(div);
+			var div2 = document.createElement("div");
+			div2.className = "dv26";
+			div14.appendChild(div2);
+			var img = document.createElement("img");
+			img.setAttribute("src","Line (2).png");
+			div2.appendChild(img);
+			var div3 = document.createElement("div");
+			div3.setAttribute("class","dv25");
+			div3.textContent = "Смотреть всё";
+			div14.appendChild(div3);
+			var div4 = document.createElement("div");
+			div4.setAttribute("class","dv24");
+			div4.textContent = "Одежда";
+			var at2 = document.querySelector(".art3");
+			var div14 = document.createElement("div");
+			div14.className = "dv33";
+			at2.appendChild(div14);
+			div14.appendChild(div4);
+			var div5 = document.createElement("div");
+			div5.className = "dv26";
+			div14.appendChild(div5);
+			var img1 = document.createElement("img");
+			img1.setAttribute("src","Line (1).png");
+			div5.appendChild(img1);
+			var div6 = document.createElement("div");
+			div6.setAttribute("class","dv25");
+			div6.textContent = "Смотреть всё";
+			div14.appendChild(div6);
+			var div7 = document.createElement("div");
+			div7.setAttribute("class","dv24");
+			div7.textContent = "Аксессуары";
+			var at3 = document.querySelector(".art4");
+			var div14 = document.createElement("div");
+			div14.className = "dv33";
+			at3.appendChild(div14);
+			div14.appendChild(div7);
+			var div8 = document.createElement("div");
+			div8.className = "dv26";
+			div14.appendChild(div8);
+			var img2 = document.createElement("img");
+			img2.setAttribute("src","Line.png");
+			div8.appendChild(img2);
+			var div9 = document.createElement("div");
+			div9.setAttribute("class","dv25");
+			div9.textContent = "Смотреть всё";
+			div14.appendChild(div9);
+			var zarkiyobmen = [
+			{
+				pic: "Rectangle 15.png",
+				title: "Вязаный шарф",
+				location: "Минск, ул. Октябрьская 19Б",
+				items: "Косметичку, зонтик, еду, дом, собаку",
+			},
+			{
+				pic: "jk.png",
+				title: "Термокружки 3шт.",
+				location: "Минск, ул. Октябрьская 19Б",
+				items: "Косметичку, зонтик, еду, дом, собаку",
+			},
+			{
+			    pic: "28961745_images_9398323739.png",
+				title: "Блокнот",
+				location: "Минск, ул. Октябрьская 19Б",
+				items: "Косметичку, зонтик, еду, дом, собаку",	
+			},
+			{
+				pic: "dzhinsovka-dzhinsovaya-kurtka-where-is-my-mind-muzhskaya-zhenskaya-2.png",
+				title: "Джинсовая куртка",
+				location: "Минск, ул. Октябрьская 19Б",
+				items: "Косметичку, зонтик, еду, дом, собаку",
+			},
+			{
+				pic: "Rectangle 15.png",
+				title: "Вязаный шарф",
+				location: "Минск, ул. Октябрьская 19Б",
+				items: "Косметичку, зонтик, еду, дом, собаку",
+			},
+			{
+				pic: "jk.png",
+				title: "Термокружки 3шт.",
+				location: "Минск, ул. Октябрьская 19Б",
+				items: "Косметичку, зонтик, еду, дом, собаку",
+			},
+			{
+			    pic: "28961745_images_9398323739.png",
+				title: "Блокнот",
+				location: "Минск, ул. Октябрьская 19Б",
+				items: "Косметичку, зонтик, еду, дом, собаку",	
+			},
+			{
+				pic: "dzhinsovka-dzhinsovaya-kurtka-where-is-my-mind-muzhskaya-zhenskaya-2.png",
+				title: "Джинсовая куртка",
+				location: "Минск, ул. Октябрьская 19Б",
+				items: "Косметичку, зонтик, еду, дом, собаку",
+			},
+			{
+				pic: "Rectangle 15.png",
+				title: "Вязаный шарф",
+				location: "Минск, ул. Октябрьская 19Б",
+				items: "Косметичку, зонтик, еду, дом, собаку",
+			},
+			{
+				pic: "jk.png",
+				title: "Термокружки 3шт.",
+				location: "Минск, ул. Октябрьская 19Б",
+				items: "Косметичку, зонтик, еду, дом, собаку",
+			},
+			{
+			    pic: "28961745_images_9398323739.png",
+				title: "Блокнот",
+				location: "Минск, ул. Октябрьская 19Б",
+				items: "Косметичку, зонтик, еду, дом, собаку",	
+			},
+			{
+				pic: "dzhinsovka-dzhinsovaya-kurtka-where-is-my-mind-muzhskaya-zhenskaya-2.png",
+				title: "Джинсовая куртка",
+				location: "Минск, ул. Октябрьская 19Б",
+				items: "Косметичку, зонтик, еду, дом, собаку",
+			},
+
+
+
+			]
+			var accessories = [
+			{
+				pic: "Rectangle 15",
+				title: "Вязаный шарф",
+				location: "Минск, ул. Октябрьская 19Б",
+				items: "Косметичку, зонтик, еду, дом, собаку",
+			},
+			{
+				pic:"jk",
+				title:"Термокружки 3шт.",
+				location:"Минск, ул. Октябрьская 19Б",
+				items:"Косметичку, зонтик, еду, дом, собаку",
+			},
+			{
+			    pic:"28961745_images_9398323739",
+				title:"Блокнот",
+				location:"Минск, ул. Октябрьская 19Б",
+				items:"Косметичку, зонтик, еду, дом, собаку",	
+			},
+			{
+				pic:"dzhinsovka-dzhinsovaya-kurtka-where-is-my-mind-muzhskaya-zhenskaya-2",
+				title:"Джинсовая куртка",
+				location:"Минск, ул. Октябрьская 19Б",
+				items:"Косметичку, зонтик, еду, дом, собаку",
+			},
+			
+			]
+			var clothes = [
+			{
+				pic:"Rectangle 15",
+				title:"Вязаный шарф",
+				location:"Минск, ул. Октябрьская 19Б",
+				items:"Косметичку, зонтик, еду, дом, собаку",
+			},
+			{
+				pic:"jk",
+				title:"Термокружки 3шт.",
+				location:"Минск, ул. Октябрьская 19Б",
+				items:"Косметичку, зонтик, еду, дом, собаку",
+			},
+			{
+			    pic:"28961745_images_9398323739",
+				title:"Блокнот",
+				location:"Минск, ул. Октябрьская 19Б",
+				items:"Косметичку, зонтик, еду, дом, собаку",	
+			},
+			{
+				pic:"dzhinsovka-dzhinsovaya-kurtka-where-is-my-mind-muzhskaya-zhenskaya-2",
+				title:"Джинсовая куртка",
+				location:"Минск, ул. Октябрьская 19Б",
+				items:"Косметичку, зонтик, еду, дом, собаку",
+			},
+			
+			]
+			function createcard(pic,title,location,items){
+				var div10 = document.createElement("div");
+				div10.className = "dv29";
+				var img3 = document.createElement("img");
+				img3.setAttribute("src", pic);
+				var div11 = document.createElement("div");
+				div11.className = "dv30";
+				var div12 = document.createElement("div");
+				div12.className = "dv31";
+				var titl = document.createElement("h2");
+				titl.textContent = title;
+				var loc = document.createElement("p");
+				loc.textContent = location;
+				var div13 = document.createElement("div");
+				div13.className = "dv32";
+				var za = document.createElement("h3");
+				za.textContent = "Обменяю на:";
+				var itemi = document.createElement("p");
+				itemi.textContent = items;
+				var img4 = document.createElement("img");
+				img4.setAttribute("src","TW0RT.png");
+				at1.appendChild(div10);
+				div10.appendChild(div12);
+				div10.appendChild(div13);
+				div12.appendChild(img3);
+				div12.appendChild(div11);
+				div13.appendChild(titl);
+				div13.appendChild(loc);
+				div13.appendChild(za);
+				div13.appendChild(itemi);
+				loc.appendChild(img4);
+				img4.className = "ig1";
+				titl.className = "titl";
+				loc.className = "loc";
+				za.className = "za";
+				itemi.className = "itemi";
+				var img5 = document.createElement("img");
+				img5.setAttribute("src","star.png");
+				div11.appendChild(img5);
+				img5.className = "ig2";
+				div11.onclick = function(){
+				var div15 = document.createElement("div");
+				div15.className = "dv301";
+				div12.appendChild(div15);
+				div11.className ="dv300"
+				div15.appendChild(img5);
+				div15.onclick = function(){
+				div15.className ="dv3010"	
+				div11.className = "dv30";
+				div11.appendChild(img5);
+				}
+	            }
+			}
+			for(var i = 0; i < 4; i++){
+			createcard(zarkiyobmen[i].pic, zarkiyobmen[i].title, zarkiyobmen[i].location, zarkiyobmen[i].items);
+		}
+		function createcard1(pic,title,location,items){
+				var div10 = document.createElement("div");
+				div10.className = "dv29";
+				var img3 = document.createElement("img");
+				img3.setAttribute("src", pic);
+				var div11 = document.createElement("div");
+				div11.className = "dv30";
+				var div12 = document.createElement("div");
+				div12.className = "dv31";
+				var titl = document.createElement("h2");
+				titl.textContent = title;
+				var loc = document.createElement("p");
+				loc.textContent = location;
+				var div13 = document.createElement("div");
+				div13.className = "dv32";
+				var za = document.createElement("h3");
+				za.textContent = "Обменяю на:";
+				var itemi = document.createElement("p");
+				itemi.textContent = items;
+				var img4 = document.createElement("img");
+				img4.setAttribute("src","TW0RT.png");
+				at2.appendChild(div10);
+				div10.appendChild(div12);
+				div10.appendChild(div13);
+				div12.appendChild(img3);
+				div12.appendChild(div11);
+				div13.appendChild(titl);
+				div13.appendChild(loc);
+				div13.appendChild(za);
+				div13.appendChild(itemi);
+				loc.appendChild(img4);
+				img4.className = "ig1";
+				titl.className = "titl";
+				loc.className = "loc";
+				za.className = "za";
+				itemi.className = "itemi";
+				var img5 = document.createElement("img");
+				img5.setAttribute("src","star.png");
+				div11.appendChild(img5);
+				img5.className = "ig2";
+				div11.onclick = function(){
+				var div15 = document.createElement("div");
+				div15.className = "dv301";
+				div12.appendChild(div15);
+				div11.className ="dv300"
+				div15.appendChild(img5);
+				div15.onclick = function(){
+				div15.className ="dv3010"	
+				div11.className = "dv30";
+				div11.appendChild(img5);
+				}
+	            }
+			}
+			for(var i = 0; i < 4; i++){
+			createcard1(zarkiyobmen[i].pic, zarkiyobmen[i].title, zarkiyobmen[i].location, zarkiyobmen[i].items);
+		}
+		function createcard2(pic,title,location,items){
+				var div10 = document.createElement("div");
+				div10.className = "dv29";
+				var img3 = document.createElement("img");
+				img3.setAttribute("src", pic);
+				var div11 = document.createElement("div");
+				div11.className = "dv30";
+				var div12 = document.createElement("div");
+				div12.className = "dv31";
+				var titl = document.createElement("h2");
+				titl.textContent = title;
+				var loc = document.createElement("p");
+				loc.textContent = location;
+				var div13 = document.createElement("div");
+				div13.className = "dv32";
+				var za = document.createElement("h3");
+				za.textContent = "Обменяю на:";
+				var itemi = document.createElement("p");
+				itemi.textContent = items;
+				var img4 = document.createElement("img");
+				img4.setAttribute("src","TW0RT.png");
+				at3.appendChild(div10);
+				div10.appendChild(div12);
+				div10.appendChild(div13);
+				div12.appendChild(img3);
+				div12.appendChild(div11);
+				div13.appendChild(titl);
+				div13.appendChild(loc);
+				div13.appendChild(za);
+				div13.appendChild(itemi);
+				loc.appendChild(img4);
+				img4.className = "ig1";
+				titl.className = "titl";
+				loc.className = "loc";
+				za.className = "za";
+				itemi.className = "itemi";
+				var img5 = document.createElement("img");
+				img5.setAttribute("src","star.png");
+				div11.appendChild(img5);
+				img5.className = "ig2";
+				div11.onclick = function(){
+				var div15 = document.createElement("div");
+				div15.className = "dv301";
+				div12.appendChild(div15);
+				div11.className ="dv300"
+				div15.appendChild(img5);
+				div15.onclick = function(){
+				div15.className ="dv3010"	
+				div11.className = "dv30";
+				div11.appendChild(img5);
+				}
+	            }
+			}
+			for(var i = 0; i < 4; i++){
+			createcard2(zarkiyobmen[i].pic, zarkiyobmen[i].title, zarkiyobmen[i].location, zarkiyobmen[i].items);
+		}
+		
+		div3.onclick = function (){
+			at2.remove();
+			at3.remove();
+			div3.remove();
+			div2.remove();
+			for(var i = 0; i < 12; i++){
+			createcard(zarkiyobmen[i].pic, zarkiyobmen[i].title, zarkiyobmen[i].location, zarkiyobmen[i].items);
+			at1.className = "art21"
+
+		}
+	}
+	   div6.onclick = function (){
+			at3.remove();
+			at1.remove();
+			div6.remove();
+			div5.remove();
+			for(var i = 0; i < 12; i++){
+			createcard1(zarkiyobmen[i].pic, zarkiyobmen[i].title, zarkiyobmen[i].location, zarkiyobmen[i].items);
+			at2.className = "art31";
+			
+		}
+	}
+	 div9.onclick = function (){
+			at2.remove();
+			at1.remove();
+			div9.remove();
+			div8.remove();
+			for(var i = 0; i < 12; i++){
+			createcard2(zarkiyobmen[i].pic, zarkiyobmen[i].title, zarkiyobmen[i].location, zarkiyobmen[i].items);
+			at3.className = "art41";
+			
+		}
+	}
+
+	
+		</script>
+	
+</body>
+</html>
