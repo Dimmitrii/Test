@@ -1,0 +1,6002 @@
+[
+    {
+      "genre": "jazz",
+      "year": 2015,
+      "singer": "Murray Chang",
+      "song": "ZERBINA"
+    },
+    {
+      "genre": "folk",
+      "year": 2020,
+      "singer": "Rena Norris",
+      "song": "DYMI"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2001,
+      "singer": "Essie Wilkins",
+      "song": "COMVEYOR"
+    },
+    {
+      "genre": "folk",
+      "year": 2004,
+      "singer": "Marva Henson",
+      "song": "PLAYCE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1998,
+      "singer": "Jodi Cobb",
+      "song": "DAISU"
+    },
+    {
+      "genre": "classical",
+      "year": 2002,
+      "singer": "Bauer Kelley",
+      "song": "ORBOID"
+    },
+    {
+      "genre": "jazz",
+      "year": 2000,
+      "singer": "Susanna Joyner",
+      "song": "VIAGREAT"
+    },
+    {
+      "genre": "rock",
+      "year": 2002,
+      "singer": "Zimmerman Drake",
+      "song": "COMTOUR"
+    },
+    {
+      "genre": "pop",
+      "year": 2014,
+      "singer": "Walker Wade",
+      "song": "POOCHIES"
+    },
+    {
+      "genre": "rock",
+      "year": 2003,
+      "singer": "Minerva Clemons",
+      "song": "TELLIFLY"
+    },
+    {
+      "genre": "rock",
+      "year": 1995,
+      "singer": "Porter Murray",
+      "song": "DIGIQUE"
+    },
+    {
+      "genre": "pop",
+      "year": 1993,
+      "singer": "Angela Butler",
+      "song": "ENTHAZE"
+    },
+    {
+      "genre": "country",
+      "year": 2009,
+      "singer": "Landry Marshall",
+      "song": "ATGEN"
+    },
+    {
+      "genre": "folk",
+      "year": 1994,
+      "singer": "Guerrero Espinoza",
+      "song": "FOSSIEL"
+    },
+    {
+      "genre": "folk",
+      "year": 1999,
+      "singer": "Carroll Huff",
+      "song": "ROUGHIES"
+    },
+    {
+      "genre": "rap",
+      "year": 1993,
+      "singer": "Esther Franks",
+      "song": "GRONK"
+    },
+    {
+      "genre": "pop",
+      "year": 1992,
+      "singer": "Ella Galloway",
+      "song": "UNIA"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1995,
+      "singer": "Diane Hopkins",
+      "song": "ZILPHUR"
+    },
+    {
+      "genre": "jazz",
+      "year": 2006,
+      "singer": "Colleen Conley",
+      "song": "TERAPRENE"
+    },
+    {
+      "genre": "jazz",
+      "year": 2014,
+      "singer": "Allie Gibson",
+      "song": "PLASMOSIS"
+    },
+    {
+      "genre": "country",
+      "year": 2018,
+      "singer": "Shawn Goff",
+      "song": "ZORK"
+    },
+    {
+      "genre": "rock",
+      "year": 2006,
+      "singer": "Dillard Mcclain",
+      "song": "PHARMEX"
+    },
+    {
+      "genre": "pop",
+      "year": 1996,
+      "singer": "Barber Mendez",
+      "song": "OVIUM"
+    },
+    {
+      "genre": "pop",
+      "year": 2017,
+      "singer": "Carol Bird",
+      "song": "IMAGINART"
+    },
+    {
+      "genre": "folk",
+      "year": 2007,
+      "singer": "Connie Marquez",
+      "song": "FROSNEX"
+    },
+    {
+      "genre": "classical",
+      "year": 1999,
+      "singer": "Glenna Aguilar",
+      "song": "ISOPOP"
+    },
+    {
+      "genre": "folk",
+      "year": 2020,
+      "singer": "Sheila Walker",
+      "song": "EXODOC"
+    },
+    {
+      "genre": "folk",
+      "year": 2016,
+      "singer": "Jenna Willis",
+      "song": "ORBEAN"
+    },
+    {
+      "genre": "classical",
+      "year": 2000,
+      "singer": "Kent Newton",
+      "song": "DANCERITY"
+    },
+    {
+      "genre": "country",
+      "year": 1992,
+      "singer": "Garza Kirk",
+      "song": "TOYLETRY"
+    },
+    {
+      "genre": "classical",
+      "year": 1993,
+      "singer": "Powell Callahan",
+      "song": "PEARLESEX"
+    },
+    {
+      "genre": "rap",
+      "year": 2000,
+      "singer": "Juarez Herman",
+      "song": "GOLISTIC"
+    },
+    {
+      "genre": "country",
+      "year": 1992,
+      "singer": "Frazier Parker",
+      "song": "GEOLOGIX"
+    },
+    {
+      "genre": "pop",
+      "year": 1998,
+      "singer": "Clara Atkins",
+      "song": "BULLZONE"
+    },
+    {
+      "genre": "folk",
+      "year": 1994,
+      "singer": "Martha Waller",
+      "song": "AVIT"
+    },
+    {
+      "genre": "jazz",
+      "year": 2012,
+      "singer": "Lessie Gallagher",
+      "song": "ENVIRE"
+    },
+    {
+      "genre": "folk",
+      "year": 2009,
+      "singer": "Kasey Jarvis",
+      "song": "ZENOLUX"
+    },
+    {
+      "genre": "rock",
+      "year": 2017,
+      "singer": "Vaughn Cook",
+      "song": "REPETWIRE"
+    },
+    {
+      "genre": "rap",
+      "year": 1993,
+      "singer": "Marisa Tyson",
+      "song": "ENOMEN"
+    },
+    {
+      "genre": "country",
+      "year": 1999,
+      "singer": "Lena Hogan",
+      "song": "TSUNAMIA"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2011,
+      "singer": "Lambert Avila",
+      "song": "GEEKFARM"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2011,
+      "singer": "Marquita Lynn",
+      "song": "SENTIA"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1998,
+      "singer": "Whitney Roberson",
+      "song": "ZANITY"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1992,
+      "singer": "Rosario Harvey",
+      "song": "VIRXO"
+    },
+    {
+      "genre": "jazz",
+      "year": 2007,
+      "singer": "Desiree Lloyd",
+      "song": "MINGA"
+    },
+    {
+      "genre": "classical",
+      "year": 2012,
+      "singer": "Patterson Brennan",
+      "song": "PROVIDCO"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2010,
+      "singer": "Mindy Koch",
+      "song": "SULTRAX"
+    },
+    {
+      "genre": "classical",
+      "year": 2003,
+      "singer": "Lynn Morrison",
+      "song": "MULTRON"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2002,
+      "singer": "Love Morris",
+      "song": "HALAP"
+    },
+    {
+      "genre": "pop",
+      "year": 2017,
+      "singer": "Casey Raymond",
+      "song": "MONDICIL"
+    },
+    {
+      "genre": "folk",
+      "year": 2005,
+      "singer": "Munoz Collier",
+      "song": "NIQUENT"
+    },
+    {
+      "genre": "folk",
+      "year": 2006,
+      "singer": "Brenda Melendez",
+      "song": "EXOSWITCH"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2016,
+      "singer": "Barker Townsend",
+      "song": "FUTURIZE"
+    },
+    {
+      "genre": "rock",
+      "year": 1999,
+      "singer": "Aida Ramirez",
+      "song": "ISOTRACK"
+    },
+    {
+      "genre": "rap",
+      "year": 2015,
+      "singer": "Summers Hyde",
+      "song": "ACIUM"
+    },
+    {
+      "genre": "rock",
+      "year": 2014,
+      "singer": "Cherie Witt",
+      "song": "ESSENSIA"
+    },
+    {
+      "genre": "rock",
+      "year": 2020,
+      "singer": "Hallie Park",
+      "song": "SPHERIX"
+    },
+    {
+      "genre": "rap",
+      "year": 1994,
+      "singer": "Ethel Skinner",
+      "song": "GINKLE"
+    },
+    {
+      "genre": "rap",
+      "year": 1999,
+      "singer": "Michele Mcfarland",
+      "song": "TYPHONICA"
+    },
+    {
+      "genre": "jazz",
+      "year": 2004,
+      "singer": "Adkins Gilbert",
+      "song": "GOGOL"
+    },
+    {
+      "genre": "jazz",
+      "year": 2003,
+      "singer": "Martin Ayers",
+      "song": "WEBIOTIC"
+    },
+    {
+      "genre": "pop",
+      "year": 2016,
+      "singer": "Edith Vasquez",
+      "song": "ACCUPHARM"
+    },
+    {
+      "genre": "folk",
+      "year": 2015,
+      "singer": "Francine Weaver",
+      "song": "ZEPITOPE"
+    },
+    {
+      "genre": "pop",
+      "year": 2008,
+      "singer": "Flynn Perry",
+      "song": "IMAGEFLOW"
+    },
+    {
+      "genre": "classical",
+      "year": 2019,
+      "singer": "Cathy Snider",
+      "song": "QUAREX"
+    },
+    {
+      "genre": "folk",
+      "year": 1996,
+      "singer": "Candy Thompson",
+      "song": "CANOPOLY"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1993,
+      "singer": "Spencer Holman",
+      "song": "ZINCA"
+    },
+    {
+      "genre": "country",
+      "year": 2020,
+      "singer": "Terry Abbott",
+      "song": "ZOLAR"
+    },
+    {
+      "genre": "classical",
+      "year": 2018,
+      "singer": "Jefferson Cortez",
+      "song": "GRUPOLI"
+    },
+    {
+      "genre": "folk",
+      "year": 2002,
+      "singer": "Augusta Christensen",
+      "song": "NEOCENT"
+    },
+    {
+      "genre": "folk",
+      "year": 2020,
+      "singer": "Rita Robles",
+      "song": "YOGASM"
+    },
+    {
+      "genre": "pop",
+      "year": 2014,
+      "singer": "Lesley Ellis",
+      "song": "REVERSUS"
+    },
+    {
+      "genre": "rock",
+      "year": 2017,
+      "singer": "Camille Dillard",
+      "song": "BEDDER"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2012,
+      "singer": "Smith Brady",
+      "song": "CEPRENE"
+    },
+    {
+      "genre": "rock",
+      "year": 1993,
+      "singer": "Crosby Case",
+      "song": "BOSTONIC"
+    },
+    {
+      "genre": "rap",
+      "year": 2008,
+      "singer": "Celia Klein",
+      "song": "INTERLOO"
+    },
+    {
+      "genre": "classical",
+      "year": 2004,
+      "singer": "Hodges Trujillo",
+      "song": "COMBOGENE"
+    },
+    {
+      "genre": "pop",
+      "year": 2003,
+      "singer": "Goodman Bailey",
+      "song": "CONFRENZY"
+    },
+    {
+      "genre": "rock",
+      "year": 2005,
+      "singer": "Mariana Ferguson",
+      "song": "GEEKKO"
+    },
+    {
+      "genre": "pop",
+      "year": 2019,
+      "singer": "Hollie Pitts",
+      "song": "ULTRIMAX"
+    },
+    {
+      "genre": "jazz",
+      "year": 2018,
+      "singer": "Kirby Grant",
+      "song": "SLUMBERIA"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2001,
+      "singer": "Ortiz Sanford",
+      "song": "SCENTRIC"
+    },
+    {
+      "genre": "classical",
+      "year": 1995,
+      "singer": "Tammi Fitzpatrick",
+      "song": "ENTROFLEX"
+    },
+    {
+      "genre": "classical",
+      "year": 2002,
+      "singer": "Floyd Fry",
+      "song": "SKYBOLD"
+    },
+    {
+      "genre": "pop",
+      "year": 2011,
+      "singer": "Lenore George",
+      "song": "ISOLOGICA"
+    },
+    {
+      "genre": "country",
+      "year": 1998,
+      "singer": "Avila Parrish",
+      "song": "BUZZMAKER"
+    },
+    {
+      "genre": "classical",
+      "year": 2007,
+      "singer": "Rhodes Mayo",
+      "song": "KEGULAR"
+    },
+    {
+      "genre": "folk",
+      "year": 2012,
+      "singer": "Camacho Barrera",
+      "song": "ACCIDENCY"
+    },
+    {
+      "genre": "classical",
+      "year": 2002,
+      "singer": "Madge Nichols",
+      "song": "TROPOLIS"
+    },
+    {
+      "genre": "rap",
+      "year": 2012,
+      "singer": "Prince Blackburn",
+      "song": "CABLAM"
+    },
+    {
+      "genre": "country",
+      "year": 2017,
+      "singer": "Higgins Welch",
+      "song": "QUALITEX"
+    },
+    {
+      "genre": "rap",
+      "year": 2017,
+      "singer": "Rhonda Sawyer",
+      "song": "SLAX"
+    },
+    {
+      "genre": "classical",
+      "year": 2008,
+      "singer": "Lila Nicholson",
+      "song": "ZOARERE"
+    },
+    {
+      "genre": "country",
+      "year": 2015,
+      "singer": "Horne Roberts",
+      "song": "INTRAWEAR"
+    },
+    {
+      "genre": "jazz",
+      "year": 2001,
+      "singer": "Marion Carney",
+      "song": "DOGTOWN"
+    },
+    {
+      "genre": "rock",
+      "year": 2013,
+      "singer": "Kennedy Ramsey",
+      "song": "PROWASTE"
+    },
+    {
+      "genre": "country",
+      "year": 1993,
+      "singer": "Reid Bolton",
+      "song": "BRISTO"
+    },
+    {
+      "genre": "folk",
+      "year": 2006,
+      "singer": "Effie Oneil",
+      "song": "ANDRYX"
+    },
+    {
+      "genre": "rap",
+      "year": 2007,
+      "singer": "Molina Knight",
+      "song": "TURNLING"
+    },
+    {
+      "genre": "country",
+      "year": 2017,
+      "singer": "Rosie Santiago",
+      "song": "HYPLEX"
+    },
+    {
+      "genre": "rap",
+      "year": 2017,
+      "singer": "Hoover Williamson",
+      "song": "SNORUS"
+    },
+    {
+      "genre": "rap",
+      "year": 2010,
+      "singer": "Goff Donaldson",
+      "song": "TALKOLA"
+    },
+    {
+      "genre": "jazz",
+      "year": 2017,
+      "singer": "Nona Dean",
+      "song": "XTH"
+    },
+    {
+      "genre": "country",
+      "year": 1995,
+      "singer": "Rebekah Byrd",
+      "song": "NURALI"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1998,
+      "singer": "Franks Whitehead",
+      "song": "EYERIS"
+    },
+    {
+      "genre": "rap",
+      "year": 2019,
+      "singer": "Suarez Cross",
+      "song": "ZOSIS"
+    },
+    {
+      "genre": "jazz",
+      "year": 1995,
+      "singer": "Kimberly Wolf",
+      "song": "EGYPTO"
+    },
+    {
+      "genre": "folk",
+      "year": 1992,
+      "singer": "Alexander Miles",
+      "song": "PARCOE"
+    },
+    {
+      "genre": "jazz",
+      "year": 2014,
+      "singer": "Moran Perkins",
+      "song": "SARASONIC"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2011,
+      "singer": "Shana Sims",
+      "song": "ZOID"
+    },
+    {
+      "genre": "jazz",
+      "year": 1994,
+      "singer": "Tate Hernandez",
+      "song": "EXTREMO"
+    },
+    {
+      "genre": "folk",
+      "year": 2005,
+      "singer": "Mcfarland Garner",
+      "song": "EXTRO"
+    },
+    {
+      "genre": "folk",
+      "year": 2009,
+      "singer": "Burnett Hendricks",
+      "song": "MANGELICA"
+    },
+    {
+      "genre": "rap",
+      "year": 2018,
+      "singer": "Miriam Day",
+      "song": "MEDIOT"
+    },
+    {
+      "genre": "jazz",
+      "year": 2009,
+      "singer": "Cynthia Leon",
+      "song": "ENQUILITY"
+    },
+    {
+      "genre": "pop",
+      "year": 2017,
+      "singer": "Antoinette Mays",
+      "song": "BICOL"
+    },
+    {
+      "genre": "folk",
+      "year": 1995,
+      "singer": "Velma Fernandez",
+      "song": "PROSURE"
+    },
+    {
+      "genre": "classical",
+      "year": 1994,
+      "singer": "Vera Cardenas",
+      "song": "FLUM"
+    },
+    {
+      "genre": "pop",
+      "year": 2000,
+      "singer": "Melanie Garza",
+      "song": "ZANYMAX"
+    },
+    {
+      "genre": "folk",
+      "year": 2015,
+      "singer": "Byrd Riggs",
+      "song": "FIBRODYNE"
+    },
+    {
+      "genre": "classical",
+      "year": 1996,
+      "singer": "Luann Barr",
+      "song": "COMVENE"
+    },
+    {
+      "genre": "rap",
+      "year": 1997,
+      "singer": "Paige Schroeder",
+      "song": "ILLUMITY"
+    },
+    {
+      "genre": "pop",
+      "year": 2013,
+      "singer": "Mattie Roman",
+      "song": "ZIPAK"
+    },
+    {
+      "genre": "country",
+      "year": 2004,
+      "singer": "Charles Horne",
+      "song": "DRAGBOT"
+    },
+    {
+      "genre": "rap",
+      "year": 2010,
+      "singer": "Lynne Hill",
+      "song": "BULLJUICE"
+    },
+    {
+      "genre": "folk",
+      "year": 2016,
+      "singer": "Elsie Carlson",
+      "song": "SOLGAN"
+    },
+    {
+      "genre": "rap",
+      "year": 2015,
+      "singer": "Cobb Swanson",
+      "song": "QUILCH"
+    },
+    {
+      "genre": "jazz",
+      "year": 2016,
+      "singer": "Marcia Mitchell",
+      "song": "NETPLODE"
+    },
+    {
+      "genre": "country",
+      "year": 2009,
+      "singer": "Holloway Harrell",
+      "song": "GLUID"
+    },
+    {
+      "genre": "classical",
+      "year": 2020,
+      "singer": "Lyons Figueroa",
+      "song": "DECRATEX"
+    },
+    {
+      "genre": "pop",
+      "year": 2003,
+      "singer": "Greta Good",
+      "song": "IZZBY"
+    },
+    {
+      "genre": "classical",
+      "year": 2002,
+      "singer": "Reyes Salas",
+      "song": "ORBIXTAR"
+    },
+    {
+      "genre": "country",
+      "year": 1997,
+      "singer": "Valarie Nixon",
+      "song": "PARAGONIA"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2011,
+      "singer": "Vilma Zamora",
+      "song": "PLASMOX"
+    },
+    {
+      "genre": "folk",
+      "year": 2001,
+      "singer": "Carlson Whitfield",
+      "song": "EPLOSION"
+    },
+    {
+      "genre": "classical",
+      "year": 2010,
+      "singer": "Alba Rush",
+      "song": "ATOMICA"
+    },
+    {
+      "genre": "rock",
+      "year": 2004,
+      "singer": "Dunlap Lester",
+      "song": "GEEKUS"
+    },
+    {
+      "genre": "rock",
+      "year": 2012,
+      "singer": "Sheree Brooks",
+      "song": "AMRIL"
+    },
+    {
+      "genre": "country",
+      "year": 2013,
+      "singer": "Audra Calhoun",
+      "song": "EARTHMARK"
+    },
+    {
+      "genre": "pop",
+      "year": 2012,
+      "singer": "Nadine Howe",
+      "song": "NETILITY"
+    },
+    {
+      "genre": "classical",
+      "year": 2002,
+      "singer": "Mcmillan Newman",
+      "song": "COMVERGES"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2002,
+      "singer": "Norman Freeman",
+      "song": "CYTREX"
+    },
+    {
+      "genre": "jazz",
+      "year": 1993,
+      "singer": "Bianca Taylor",
+      "song": "GRAINSPOT"
+    },
+    {
+      "genre": "folk",
+      "year": 1997,
+      "singer": "Henrietta Oconnor",
+      "song": "EURON"
+    },
+    {
+      "genre": "jazz",
+      "year": 2001,
+      "singer": "Sullivan Diaz",
+      "song": "NAXDIS"
+    },
+    {
+      "genre": "country",
+      "year": 2007,
+      "singer": "Hawkins Reese",
+      "song": "COMDOM"
+    },
+    {
+      "genre": "folk",
+      "year": 2013,
+      "singer": "Joyce Valencia",
+      "song": "ZOINAGE"
+    },
+    {
+      "genre": "jazz",
+      "year": 2002,
+      "singer": "Lula Walton",
+      "song": "LIMOZEN"
+    },
+    {
+      "genre": "rock",
+      "year": 1996,
+      "singer": "Pam Montoya",
+      "song": "BOVIS"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2003,
+      "singer": "Helena Mercado",
+      "song": "ROCKLOGIC"
+    },
+    {
+      "genre": "rock",
+      "year": 2007,
+      "singer": "Carmen Robinson",
+      "song": "FLYBOYZ"
+    },
+    {
+      "genre": "folk",
+      "year": 2008,
+      "singer": "Cecelia Vazquez",
+      "song": "QUORDATE"
+    },
+    {
+      "genre": "classical",
+      "year": 2001,
+      "singer": "Sally Thornton",
+      "song": "RAMJOB"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2007,
+      "singer": "Evelyn Cash",
+      "song": "ESCHOIR"
+    },
+    {
+      "genre": "pop",
+      "year": 2009,
+      "singer": "Dunn Lynch",
+      "song": "BEZAL"
+    },
+    {
+      "genre": "rock",
+      "year": 2009,
+      "singer": "Meghan Kline",
+      "song": "PRIMORDIA"
+    },
+    {
+      "genre": "rap",
+      "year": 2002,
+      "singer": "Debbie Heath",
+      "song": "TECHMANIA"
+    },
+    {
+      "genre": "jazz",
+      "year": 2017,
+      "singer": "Blackburn Baird",
+      "song": "CENTICE"
+    },
+    {
+      "genre": "classical",
+      "year": 2004,
+      "singer": "Rich Carver",
+      "song": "ZIORE"
+    },
+    {
+      "genre": "classical",
+      "year": 2013,
+      "singer": "Velez Mooney",
+      "song": "HYDROCOM"
+    },
+    {
+      "genre": "jazz",
+      "year": 2010,
+      "singer": "Harriett Beck",
+      "song": "SPACEWAX"
+    },
+    {
+      "genre": "rock",
+      "year": 2012,
+      "singer": "Ashley Calderon",
+      "song": "INCUBUS"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2016,
+      "singer": "Winnie Fulton",
+      "song": "KYAGORO"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2007,
+      "singer": "Curtis Pittman",
+      "song": "MEDICROIX"
+    },
+    {
+      "genre": "country",
+      "year": 2019,
+      "singer": "Rachael Acosta",
+      "song": "XLEEN"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2006,
+      "singer": "Wolfe Andrews",
+      "song": "TURNABOUT"
+    },
+    {
+      "genre": "folk",
+      "year": 2019,
+      "singer": "Greer Ashley",
+      "song": "STEELFAB"
+    },
+    {
+      "genre": "pop",
+      "year": 1992,
+      "singer": "Vasquez Reyes",
+      "song": "OPPORTECH"
+    },
+    {
+      "genre": "jazz",
+      "year": 2000,
+      "singer": "Chris Rodriguez",
+      "song": "FRANSCENE"
+    },
+    {
+      "genre": "folk",
+      "year": 2017,
+      "singer": "Beulah Chan",
+      "song": "COMSTRUCT"
+    },
+    {
+      "genre": "country",
+      "year": 2003,
+      "singer": "Bentley Cole",
+      "song": "RODEOLOGY"
+    },
+    {
+      "genre": "rock",
+      "year": 1992,
+      "singer": "Tammy Wilkerson",
+      "song": "TRIPSCH"
+    },
+    {
+      "genre": "jazz",
+      "year": 1998,
+      "singer": "Hinton Ryan",
+      "song": "DIGITALUS"
+    },
+    {
+      "genre": "rap",
+      "year": 2001,
+      "singer": "Stephenson Blanchard",
+      "song": "ZENTIX"
+    },
+    {
+      "genre": "rap",
+      "year": 2019,
+      "singer": "Sellers Warren",
+      "song": "MITROC"
+    },
+    {
+      "genre": "classical",
+      "year": 2010,
+      "singer": "Ann Cain",
+      "song": "ISOSURE"
+    },
+    {
+      "genre": "jazz",
+      "year": 1994,
+      "singer": "Grant Farrell",
+      "song": "ZENTURY"
+    },
+    {
+      "genre": "rap",
+      "year": 2016,
+      "singer": "Young Moon",
+      "song": "ZOLARITY"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2009,
+      "singer": "Terrell Winters",
+      "song": "JUMPSTACK"
+    },
+    {
+      "genre": "rock",
+      "year": 1999,
+      "singer": "Ina Burch",
+      "song": "NORSUL"
+    },
+    {
+      "genre": "folk",
+      "year": 1998,
+      "singer": "Iris Gordon",
+      "song": "BLANET"
+    },
+    {
+      "genre": "classical",
+      "year": 2016,
+      "singer": "Sheena Giles",
+      "song": "EVENTAGE"
+    },
+    {
+      "genre": "pop",
+      "year": 2001,
+      "singer": "Bartlett Humphrey",
+      "song": "SILODYNE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2006,
+      "singer": "Gabriela Gould",
+      "song": "GENESYNK"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2004,
+      "singer": "Castillo Berger",
+      "song": "APPLIDEC"
+    },
+    {
+      "genre": "classical",
+      "year": 2012,
+      "singer": "Mccray Vargas",
+      "song": "BALOOBA"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2016,
+      "singer": "Joyner Molina",
+      "song": "CENTURIA"
+    },
+    {
+      "genre": "country",
+      "year": 2016,
+      "singer": "Lela Clements",
+      "song": "QOT"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2004,
+      "singer": "Francis Pickett",
+      "song": "CEMENTION"
+    },
+    {
+      "genre": "classical",
+      "year": 2015,
+      "singer": "Beth Marsh",
+      "song": "CRUSTATIA"
+    },
+    {
+      "genre": "rock",
+      "year": 1996,
+      "singer": "Golden Armstrong",
+      "song": "OVATION"
+    },
+    {
+      "genre": "folk",
+      "year": 2001,
+      "singer": "Leola Holder",
+      "song": "QUANTASIS"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2017,
+      "singer": "Frank Church",
+      "song": "QUOTEZART"
+    },
+    {
+      "genre": "classical",
+      "year": 2000,
+      "singer": "Mccoy Little",
+      "song": "APEXIA"
+    },
+    {
+      "genre": "rap",
+      "year": 2013,
+      "singer": "Maribel Chapman",
+      "song": "EVEREST"
+    },
+    {
+      "genre": "classical",
+      "year": 2003,
+      "singer": "Millicent Long",
+      "song": "ROBOID"
+    },
+    {
+      "genre": "pop",
+      "year": 2004,
+      "singer": "Watts Buckley",
+      "song": "CINASTER"
+    },
+    {
+      "genre": "classical",
+      "year": 2013,
+      "singer": "Green Dyer",
+      "song": "EQUITAX"
+    },
+    {
+      "genre": "pop",
+      "year": 2004,
+      "singer": "Heath Mckinney",
+      "song": "MARQET"
+    },
+    {
+      "genre": "jazz",
+      "year": 2019,
+      "singer": "Schroeder Gray",
+      "song": "GEEKY"
+    },
+    {
+      "genre": "jazz",
+      "year": 1993,
+      "singer": "Lawrence Pacheco",
+      "song": "DAIDO"
+    },
+    {
+      "genre": "rap",
+      "year": 2015,
+      "singer": "Odessa Barker",
+      "song": "FORTEAN"
+    },
+    {
+      "genre": "rock",
+      "year": 2017,
+      "singer": "Pearl Hinton",
+      "song": "UNDERTAP"
+    },
+    {
+      "genre": "classical",
+      "year": 2007,
+      "singer": "Gilbert Randall",
+      "song": "HOMELUX"
+    },
+    {
+      "genre": "country",
+      "year": 1996,
+      "singer": "Karen Berry",
+      "song": "UPLINX"
+    },
+    {
+      "genre": "country",
+      "year": 2002,
+      "singer": "Keisha Colon",
+      "song": "NETERIA"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1998,
+      "singer": "Jeanne Mckee",
+      "song": "PLUTORQUE"
+    },
+    {
+      "genre": "classical",
+      "year": 1996,
+      "singer": "Fulton Cummings",
+      "song": "MELBACOR"
+    },
+    {
+      "genre": "country",
+      "year": 1998,
+      "singer": "Adeline Mueller",
+      "song": "DAYCORE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2011,
+      "singer": "Fitzpatrick Mathews",
+      "song": "RETROTEX"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2013,
+      "singer": "Benson Gregory",
+      "song": "ECLIPSENT"
+    },
+    {
+      "genre": "rap",
+      "year": 2016,
+      "singer": "Coleman Jones",
+      "song": "MOBILDATA"
+    },
+    {
+      "genre": "classical",
+      "year": 2019,
+      "singer": "Francis Rice",
+      "song": "CANDECOR"
+    },
+    {
+      "genre": "folk",
+      "year": 2000,
+      "singer": "Stacey Cochran",
+      "song": "VANTAGE"
+    },
+    {
+      "genre": "rock",
+      "year": 1994,
+      "singer": "Mason Compton",
+      "song": "ORGANICA"
+    },
+    {
+      "genre": "rock",
+      "year": 2008,
+      "singer": "Cervantes Morton",
+      "song": "CIPROMOX"
+    },
+    {
+      "genre": "rock",
+      "year": 1992,
+      "singer": "Faulkner Williams",
+      "song": "TUBALUM"
+    },
+    {
+      "genre": "rock",
+      "year": 1997,
+      "singer": "Wall Stanley",
+      "song": "XOGGLE"
+    },
+    {
+      "genre": "jazz",
+      "year": 1992,
+      "singer": "Abby Palmer",
+      "song": "AQUASSEUR"
+    },
+    {
+      "genre": "pop",
+      "year": 2018,
+      "singer": "Bernice Oneal",
+      "song": "COGENTRY"
+    },
+    {
+      "genre": "rap",
+      "year": 2016,
+      "singer": "Jeanine Briggs",
+      "song": "MAXIMIND"
+    },
+    {
+      "genre": "classical",
+      "year": 1996,
+      "singer": "Campbell Mccullough",
+      "song": "PAWNAGRA"
+    },
+    {
+      "genre": "rock",
+      "year": 2004,
+      "singer": "Ayers Battle",
+      "song": "MARVANE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2002,
+      "singer": "Finley Martinez",
+      "song": "DIGIRANG"
+    },
+    {
+      "genre": "rock",
+      "year": 2016,
+      "singer": "Josefa Bennett",
+      "song": "COMBOT"
+    },
+    {
+      "genre": "rap",
+      "year": 1992,
+      "singer": "Melinda Hudson",
+      "song": "BIFLEX"
+    },
+    {
+      "genre": "rap",
+      "year": 2005,
+      "singer": "Solomon Ramos",
+      "song": "ENERSAVE"
+    },
+    {
+      "genre": "rap",
+      "year": 2011,
+      "singer": "Sabrina Dejesus",
+      "song": "DYNO"
+    },
+    {
+      "genre": "rock",
+      "year": 2009,
+      "singer": "Fuentes Stafford",
+      "song": "ZILLACTIC"
+    },
+    {
+      "genre": "country",
+      "year": 1996,
+      "singer": "Lopez Contreras",
+      "song": "SUREPLEX"
+    },
+    {
+      "genre": "classical",
+      "year": 2001,
+      "singer": "Cathryn Burns",
+      "song": "MICROLUXE"
+    },
+    {
+      "genre": "folk",
+      "year": 1998,
+      "singer": "Bird Kirkland",
+      "song": "GOKO"
+    },
+    {
+      "genre": "jazz",
+      "year": 1997,
+      "singer": "Tammie Small",
+      "song": "COMTEST"
+    },
+    {
+      "genre": "folk",
+      "year": 2005,
+      "singer": "Hillary Coleman",
+      "song": "GADTRON"
+    },
+    {
+      "genre": "jazz",
+      "year": 2008,
+      "singer": "Cherry Landry",
+      "song": "PHOLIO"
+    },
+    {
+      "genre": "rock",
+      "year": 2017,
+      "singer": "Lindsey May",
+      "song": "VERAQ"
+    },
+    {
+      "genre": "jazz",
+      "year": 1999,
+      "singer": "Newman Castillo",
+      "song": "INRT"
+    },
+    {
+      "genre": "classical",
+      "year": 2017,
+      "singer": "Traci Odonnell",
+      "song": "ECRATIC"
+    },
+    {
+      "genre": "pop",
+      "year": 1996,
+      "singer": "Catalina Spence",
+      "song": "IMANT"
+    },
+    {
+      "genre": "classical",
+      "year": 2008,
+      "singer": "Christie Guy",
+      "song": "SEALOUD"
+    },
+    {
+      "genre": "rock",
+      "year": 2008,
+      "singer": "Reeves Randolph",
+      "song": "ZYTRAC"
+    },
+    {
+      "genre": "pop",
+      "year": 2003,
+      "singer": "Freda Wise",
+      "song": "FLUMBO"
+    },
+    {
+      "genre": "rap",
+      "year": 2004,
+      "singer": "Lane Conway",
+      "song": "FLOTONIC"
+    },
+    {
+      "genre": "pop",
+      "year": 2003,
+      "singer": "Bowman Warner",
+      "song": "OATFARM"
+    },
+    {
+      "genre": "country",
+      "year": 2020,
+      "singer": "Lorene Cameron",
+      "song": "AQUAZURE"
+    },
+    {
+      "genre": "rock",
+      "year": 2016,
+      "singer": "Estrada Ferrell",
+      "song": "CORPULSE"
+    },
+    {
+      "genre": "country",
+      "year": 2018,
+      "singer": "Morin Le",
+      "song": "ORONOKO"
+    },
+    {
+      "genre": "pop",
+      "year": 2012,
+      "singer": "Lee Johnson",
+      "song": "TERRAGO"
+    },
+    {
+      "genre": "jazz",
+      "year": 2006,
+      "singer": "Shelley Dillon",
+      "song": "AVENETRO"
+    },
+    {
+      "genre": "country",
+      "year": 2013,
+      "singer": "Bell Doyle",
+      "song": "FUTURITY"
+    },
+    {
+      "genre": "folk",
+      "year": 2019,
+      "singer": "Lucinda William",
+      "song": "MAKINGWAY"
+    },
+    {
+      "genre": "country",
+      "year": 1996,
+      "singer": "Lucy Steele",
+      "song": "TERASCAPE"
+    },
+    {
+      "genre": "country",
+      "year": 2012,
+      "singer": "Vicky Kelly",
+      "song": "HOTCAKES"
+    },
+    {
+      "genre": "rock",
+      "year": 2017,
+      "singer": "Pansy Shannon",
+      "song": "VINCH"
+    },
+    {
+      "genre": "rock",
+      "year": 1994,
+      "singer": "Dianna Maynard",
+      "song": "SNOWPOKE"
+    },
+    {
+      "genre": "country",
+      "year": 2016,
+      "singer": "Becker Chambers",
+      "song": "BUZZNESS"
+    },
+    {
+      "genre": "pop",
+      "year": 2005,
+      "singer": "Hopper Coffey",
+      "song": "COMVEYER"
+    },
+    {
+      "genre": "rap",
+      "year": 1992,
+      "singer": "Stefanie Forbes",
+      "song": "GEOFORMA"
+    },
+    {
+      "genre": "rock",
+      "year": 2011,
+      "singer": "Marissa Bartlett",
+      "song": "ASSISTIX"
+    },
+    {
+      "genre": "rock",
+      "year": 2020,
+      "singer": "Joanne Richards",
+      "song": "EPLODE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2004,
+      "singer": "Williamson Cotton",
+      "song": "SINGAVERA"
+    },
+    {
+      "genre": "classical",
+      "year": 1997,
+      "singer": "Benton Allison",
+      "song": "SOLAREN"
+    },
+    {
+      "genre": "jazz",
+      "year": 2009,
+      "singer": "Morton Copeland",
+      "song": "XEREX"
+    },
+    {
+      "genre": "jazz",
+      "year": 1996,
+      "singer": "Le Jacobs",
+      "song": "IDEALIS"
+    },
+    {
+      "genre": "rap",
+      "year": 1997,
+      "singer": "Brown Mccoy",
+      "song": "SAVVY"
+    },
+    {
+      "genre": "pop",
+      "year": 2003,
+      "singer": "Tisha Estes",
+      "song": "RECOGNIA"
+    },
+    {
+      "genre": "rock",
+      "year": 2012,
+      "singer": "Henson Holcomb",
+      "song": "CODACT"
+    },
+    {
+      "genre": "classical",
+      "year": 2003,
+      "singer": "Julianne Hunt",
+      "song": "POLARAX"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2004,
+      "singer": "Hazel Pratt",
+      "song": "PUSHCART"
+    },
+    {
+      "genre": "classical",
+      "year": 2011,
+      "singer": "Nettie Mullins",
+      "song": "XYMONK"
+    },
+    {
+      "genre": "rap",
+      "year": 2001,
+      "singer": "Carolina Suarez",
+      "song": "ANIVET"
+    },
+    {
+      "genre": "rock",
+      "year": 1997,
+      "singer": "Edwards Miller",
+      "song": "COMTRAIL"
+    },
+    {
+      "genre": "jazz",
+      "year": 2008,
+      "singer": "Calhoun Morin",
+      "song": "OVOLO"
+    },
+    {
+      "genre": "country",
+      "year": 2020,
+      "singer": "Peterson Guthrie",
+      "song": "QIAO"
+    },
+    {
+      "genre": "jazz",
+      "year": 2012,
+      "singer": "Hickman Wells",
+      "song": "KEENGEN"
+    },
+    {
+      "genre": "classical",
+      "year": 1997,
+      "singer": "Lou Hood",
+      "song": "ZILLATIDE"
+    },
+    {
+      "genre": "jazz",
+      "year": 1993,
+      "singer": "Hernandez Dunn",
+      "song": "GREEKER"
+    },
+    {
+      "genre": "folk",
+      "year": 2009,
+      "singer": "Leanna Munoz",
+      "song": "QNEKT"
+    },
+    {
+      "genre": "folk",
+      "year": 2012,
+      "singer": "Deloris Cote",
+      "song": "UNCORP"
+    },
+    {
+      "genre": "folk",
+      "year": 1994,
+      "singer": "Pierce Daniel",
+      "song": "EVENTIX"
+    },
+    {
+      "genre": "country",
+      "year": 1997,
+      "singer": "Frederick Pope",
+      "song": "CENTREGY"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2009,
+      "singer": "Nannie Herring",
+      "song": "GROK"
+    },
+    {
+      "genre": "country",
+      "year": 2002,
+      "singer": "Tina Navarro",
+      "song": "LUNCHPAD"
+    },
+    {
+      "genre": "classical",
+      "year": 2010,
+      "singer": "Chandra Edwards",
+      "song": "CENTREE"
+    },
+    {
+      "genre": "folk",
+      "year": 2003,
+      "singer": "Kline Hayes",
+      "song": "ZUVY"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2000,
+      "singer": "Ivy Hodges",
+      "song": "PETIGEMS"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1995,
+      "singer": "Hutchinson Barron",
+      "song": "GEOFARM"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1992,
+      "singer": "Kemp Shelton",
+      "song": "BITTOR"
+    },
+    {
+      "genre": "country",
+      "year": 2019,
+      "singer": "Latisha Frederick",
+      "song": "FILODYNE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2013,
+      "singer": "Josephine Juarez",
+      "song": "XPLOR"
+    },
+    {
+      "genre": "classical",
+      "year": 2004,
+      "singer": "Russell Reynolds",
+      "song": "ENTOGROK"
+    },
+    {
+      "genre": "country",
+      "year": 2002,
+      "singer": "Briana Fuller",
+      "song": "XYQAG"
+    },
+    {
+      "genre": "jazz",
+      "year": 2010,
+      "singer": "Kelli Shepherd",
+      "song": "ENERSOL"
+    },
+    {
+      "genre": "country",
+      "year": 2001,
+      "singer": "Austin Irwin",
+      "song": "STRALUM"
+    },
+    {
+      "genre": "pop",
+      "year": 1993,
+      "singer": "Rocha Santana",
+      "song": "CINCYR"
+    },
+    {
+      "genre": "country",
+      "year": 2012,
+      "singer": "Palmer Riley",
+      "song": "ZYTRAX"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1999,
+      "singer": "Branch Morgan",
+      "song": "DATACATOR"
+    },
+    {
+      "genre": "country",
+      "year": 2001,
+      "singer": "Haley Barber",
+      "song": "COMSTAR"
+    },
+    {
+      "genre": "country",
+      "year": 1992,
+      "singer": "Whitfield Curtis",
+      "song": "CHORIZON"
+    },
+    {
+      "genre": "folk",
+      "year": 2018,
+      "singer": "Maldonado Hendrix",
+      "song": "SULTRAXIN"
+    },
+    {
+      "genre": "country",
+      "year": 2012,
+      "singer": "Jenifer Mcmillan",
+      "song": "RENOVIZE"
+    },
+    {
+      "genre": "folk",
+      "year": 2013,
+      "singer": "Mavis Saunders",
+      "song": "GONKLE"
+    },
+    {
+      "genre": "pop",
+      "year": 2011,
+      "singer": "Olga Brock",
+      "song": "FITCORE"
+    },
+    {
+      "genre": "rock",
+      "year": 2000,
+      "singer": "Jamie Webster",
+      "song": "EVENTEX"
+    },
+    {
+      "genre": "folk",
+      "year": 2014,
+      "singer": "Vazquez Mullen",
+      "song": "ZIGGLES"
+    },
+    {
+      "genre": "classical",
+      "year": 2012,
+      "singer": "Sherri Barlow",
+      "song": "DARWINIUM"
+    },
+    {
+      "genre": "rock",
+      "year": 2005,
+      "singer": "Bond Rios",
+      "song": "QUINEX"
+    },
+    {
+      "genre": "folk",
+      "year": 1999,
+      "singer": "Paulette Hays",
+      "song": "QUIZKA"
+    },
+    {
+      "genre": "pop",
+      "year": 1996,
+      "singer": "Meadows Wood",
+      "song": "ZILLA"
+    },
+    {
+      "genre": "classical",
+      "year": 2014,
+      "singer": "Lawson Hurst",
+      "song": "CAXT"
+    },
+    {
+      "genre": "rap",
+      "year": 2012,
+      "singer": "Rosalyn Simmons",
+      "song": "IRACK"
+    },
+    {
+      "genre": "country",
+      "year": 1999,
+      "singer": "Waller Adams",
+      "song": "IMKAN"
+    },
+    {
+      "genre": "country",
+      "year": 2020,
+      "singer": "Pamela Donovan",
+      "song": "DEEPENDS"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1992,
+      "singer": "Allyson Bauer",
+      "song": "GINKOGENE"
+    },
+    {
+      "genre": "country",
+      "year": 1992,
+      "singer": "Mcguire Patrick",
+      "song": "WAAB"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2011,
+      "singer": "Dorsey Haley",
+      "song": "ZOXY"
+    },
+    {
+      "genre": "rap",
+      "year": 1993,
+      "singer": "Cantrell Stephens",
+      "song": "GENMEX"
+    },
+    {
+      "genre": "jazz",
+      "year": 2004,
+      "singer": "Carey Crawford",
+      "song": "PROSELY"
+    },
+    {
+      "genre": "pop",
+      "year": 2004,
+      "singer": "Kelley Justice",
+      "song": "VIAGRAND"
+    },
+    {
+      "genre": "rap",
+      "year": 1994,
+      "singer": "Hensley Schmidt",
+      "song": "GAPTEC"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2014,
+      "singer": "Alford Clayton",
+      "song": "OTHERSIDE"
+    },
+    {
+      "genre": "folk",
+      "year": 2012,
+      "singer": "Kathryn Dickerson",
+      "song": "DEMINIMUM"
+    },
+    {
+      "genre": "folk",
+      "year": 2005,
+      "singer": "Theresa Love",
+      "song": "FRENEX"
+    },
+    {
+      "genre": "folk",
+      "year": 2013,
+      "singer": "Tabitha Patterson",
+      "song": "SUPREMIA"
+    },
+    {
+      "genre": "pop",
+      "year": 2005,
+      "singer": "Cabrera Walter",
+      "song": "INSURETY"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1997,
+      "singer": "Drake Beard",
+      "song": "ZENTIME"
+    },
+    {
+      "genre": "jazz",
+      "year": 2003,
+      "singer": "Richards Hartman",
+      "song": "ORBIFLEX"
+    },
+    {
+      "genre": "pop",
+      "year": 2013,
+      "singer": "Kari Evans",
+      "song": "VIDTO"
+    },
+    {
+      "genre": "jazz",
+      "year": 2011,
+      "singer": "Carter Guerrero",
+      "song": "ZOUNDS"
+    },
+    {
+      "genre": "classical",
+      "year": 2010,
+      "singer": "Mcdonald Rogers",
+      "song": "MACRONAUT"
+    },
+    {
+      "genre": "classical",
+      "year": 2016,
+      "singer": "Chasity Monroe",
+      "song": "TWIGGERY"
+    },
+    {
+      "genre": "rock",
+      "year": 2008,
+      "singer": "Laurel Lucas",
+      "song": "COMTRAK"
+    },
+    {
+      "genre": "jazz",
+      "year": 1997,
+      "singer": "Peck Blevins",
+      "song": "ACCUFARM"
+    },
+    {
+      "genre": "pop",
+      "year": 2012,
+      "singer": "Lilia Flores",
+      "song": "PLEXIA"
+    },
+    {
+      "genre": "pop",
+      "year": 2011,
+      "singer": "Kristine Mcintyre",
+      "song": "SUREMAX"
+    },
+    {
+      "genre": "country",
+      "year": 2014,
+      "singer": "Spence Pruitt",
+      "song": "NIMON"
+    },
+    {
+      "genre": "classical",
+      "year": 1998,
+      "singer": "Sutton Richard",
+      "song": "VALPREAL"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2015,
+      "singer": "Lenora Glenn",
+      "song": "SCHOOLIO"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2003,
+      "singer": "Wade Booth",
+      "song": "CORPORANA"
+    },
+    {
+      "genre": "folk",
+      "year": 2010,
+      "singer": "Rosales Salazar",
+      "song": "MAXEMIA"
+    },
+    {
+      "genre": "country",
+      "year": 2005,
+      "singer": "Lola Joyce",
+      "song": "SHADEASE"
+    },
+    {
+      "genre": "folk",
+      "year": 2017,
+      "singer": "Stanton Rutledge",
+      "song": "AQUACINE"
+    },
+    {
+      "genre": "rock",
+      "year": 1994,
+      "singer": "Wilder Franco",
+      "song": "ZENTRY"
+    },
+    {
+      "genre": "country",
+      "year": 1993,
+      "singer": "Louisa Greene",
+      "song": "ZYTREX"
+    },
+    {
+      "genre": "classical",
+      "year": 2002,
+      "singer": "Wagner King",
+      "song": "PAPRIKUT"
+    },
+    {
+      "genre": "country",
+      "year": 2008,
+      "singer": "Huber Woodward",
+      "song": "EWEVILLE"
+    },
+    {
+      "genre": "folk",
+      "year": 2015,
+      "singer": "Holcomb Lancaster",
+      "song": "ZENTIA"
+    },
+    {
+      "genre": "folk",
+      "year": 1996,
+      "singer": "Elena Chaney",
+      "song": "GLUKGLUK"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2011,
+      "singer": "Holmes Hebert",
+      "song": "FISHLAND"
+    },
+    {
+      "genre": "rock",
+      "year": 1997,
+      "singer": "Adrienne Gonzales",
+      "song": "ZILIDIUM"
+    },
+    {
+      "genre": "pop",
+      "year": 2001,
+      "singer": "Amber Dominguez",
+      "song": "XELEGYL"
+    },
+    {
+      "genre": "jazz",
+      "year": 1997,
+      "singer": "French Cooper",
+      "song": "BIZMATIC"
+    },
+    {
+      "genre": "classical",
+      "year": 2013,
+      "singer": "Marta Obrien",
+      "song": "NAMEBOX"
+    },
+    {
+      "genre": "folk",
+      "year": 2006,
+      "singer": "Susanne Mcdonald",
+      "song": "BUNGA"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2006,
+      "singer": "Rosa Douglas",
+      "song": "ASSITIA"
+    },
+    {
+      "genre": "country",
+      "year": 2017,
+      "singer": "Matthews Burt",
+      "song": "JAMNATION"
+    },
+    {
+      "genre": "pop",
+      "year": 2004,
+      "singer": "Lori Brown",
+      "song": "GEEKOLA"
+    },
+    {
+      "genre": "country",
+      "year": 1995,
+      "singer": "Valdez York",
+      "song": "PARLEYNET"
+    },
+    {
+      "genre": "classical",
+      "year": 1997,
+      "singer": "Shannon Wilder",
+      "song": "MAGNINA"
+    },
+    {
+      "genre": "folk",
+      "year": 2012,
+      "singer": "Giles Bryant",
+      "song": "PYRAMAX"
+    },
+    {
+      "genre": "rock",
+      "year": 2001,
+      "singer": "Winifred Kirby",
+      "song": "VERBUS"
+    },
+    {
+      "genre": "folk",
+      "year": 2004,
+      "singer": "Miranda Carroll",
+      "song": "EXTRAWEAR"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2006,
+      "singer": "Kathie Gallegos",
+      "song": "FANFARE"
+    },
+    {
+      "genre": "rock",
+      "year": 1998,
+      "singer": "Cindy Griffith",
+      "song": "NEBULEAN"
+    },
+    {
+      "genre": "rap",
+      "year": 1994,
+      "singer": "Charlene Ratliff",
+      "song": "SYNTAC"
+    },
+    {
+      "genre": "classical",
+      "year": 2003,
+      "singer": "Castaneda Mejia",
+      "song": "STROZEN"
+    },
+    {
+      "genre": "jazz",
+      "year": 1994,
+      "singer": "Duncan Barton",
+      "song": "DATAGENE"
+    },
+    {
+      "genre": "rap",
+      "year": 2020,
+      "singer": "Bridges Acevedo",
+      "song": "TALAE"
+    },
+    {
+      "genre": "jazz",
+      "year": 2005,
+      "singer": "Gregory Stewart",
+      "song": "VELOS"
+    },
+    {
+      "genre": "classical",
+      "year": 2018,
+      "singer": "Bowen Adkins",
+      "song": "QUIZMO"
+    },
+    {
+      "genre": "classical",
+      "year": 2012,
+      "singer": "Stein Fletcher",
+      "song": "COLAIRE"
+    },
+    {
+      "genre": "rock",
+      "year": 2003,
+      "singer": "Cecilia Caldwell",
+      "song": "MAGNEATO"
+    },
+    {
+      "genre": "jazz",
+      "year": 2011,
+      "singer": "Coleen Snow",
+      "song": "MEDMEX"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2001,
+      "singer": "Lilian Morrow",
+      "song": "NSPIRE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2002,
+      "singer": "Perkins Levine",
+      "song": "REALMO"
+    },
+    {
+      "genre": "jazz",
+      "year": 2009,
+      "singer": "Lorrie Lane",
+      "song": "UTARIAN"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1998,
+      "singer": "Holden Wyatt",
+      "song": "PHUEL"
+    },
+    {
+      "genre": "jazz",
+      "year": 2007,
+      "singer": "Harrison Barnett",
+      "song": "LOCAZONE"
+    },
+    {
+      "genre": "country",
+      "year": 2007,
+      "singer": "Farrell Webb",
+      "song": "PAPRICUT"
+    },
+    {
+      "genre": "classical",
+      "year": 2003,
+      "singer": "Mallory Jenkins",
+      "song": "ISOLOGIX"
+    },
+    {
+      "genre": "country",
+      "year": 2005,
+      "singer": "Bailey Kennedy",
+      "song": "PYRAMIS"
+    },
+    {
+      "genre": "country",
+      "year": 2017,
+      "singer": "Stokes Burke",
+      "song": "GEEKWAGON"
+    },
+    {
+      "genre": "country",
+      "year": 1999,
+      "singer": "Doyle Dunlap",
+      "song": "VENOFLEX"
+    },
+    {
+      "genre": "rock",
+      "year": 2014,
+      "singer": "Griffith Alexander",
+      "song": "RECRISYS"
+    },
+    {
+      "genre": "pop",
+      "year": 2020,
+      "singer": "Baldwin Hess",
+      "song": "COASH"
+    },
+    {
+      "genre": "folk",
+      "year": 2013,
+      "singer": "Jill Glass",
+      "song": "COMTRACT"
+    },
+    {
+      "genre": "jazz",
+      "year": 2018,
+      "singer": "Flores Cox",
+      "song": "INSOURCE"
+    },
+    {
+      "genre": "folk",
+      "year": 1997,
+      "singer": "Flora Kaufman",
+      "song": "IMPERIUM"
+    },
+    {
+      "genre": "pop",
+      "year": 2019,
+      "singer": "Victoria Cohen",
+      "song": "OVERFORK"
+    },
+    {
+      "genre": "rap",
+      "year": 2019,
+      "singer": "Whitley Cantrell",
+      "song": "ZILLACON"
+    },
+    {
+      "genre": "country",
+      "year": 2019,
+      "singer": "Kelley Mills",
+      "song": "ARTWORLDS"
+    },
+    {
+      "genre": "pop",
+      "year": 1998,
+      "singer": "Adams Guzman",
+      "song": "MUSAPHICS"
+    },
+    {
+      "genre": "pop",
+      "year": 2005,
+      "singer": "Kaufman Bonner",
+      "song": "KRAGGLE"
+    },
+    {
+      "genre": "jazz",
+      "year": 1999,
+      "singer": "Leann Rollins",
+      "song": "GYNKO"
+    },
+    {
+      "genre": "folk",
+      "year": 2019,
+      "singer": "Karin Conrad",
+      "song": "GINK"
+    },
+    {
+      "genre": "pop",
+      "year": 1998,
+      "singer": "Salazar French",
+      "song": "BLEENDOT"
+    },
+    {
+      "genre": "rap",
+      "year": 1997,
+      "singer": "Loretta Larsen",
+      "song": "TECHTRIX"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1992,
+      "singer": "Jacobs Dennis",
+      "song": "QUILITY"
+    },
+    {
+      "genre": "pop",
+      "year": 2008,
+      "singer": "Trevino Schwartz",
+      "song": "JOVIOLD"
+    },
+    {
+      "genre": "jazz",
+      "year": 2009,
+      "singer": "Richmond Stevenson",
+      "song": "DIGIPRINT"
+    },
+    {
+      "genre": "classical",
+      "year": 2010,
+      "singer": "Alyce Yang",
+      "song": "GEEKOL"
+    },
+    {
+      "genre": "jazz",
+      "year": 1997,
+      "singer": "Roy Odom",
+      "song": "EXOZENT"
+    },
+    {
+      "genre": "folk",
+      "year": 2005,
+      "singer": "Rosario Durham",
+      "song": "OCTOCORE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2007,
+      "singer": "Cara Allen",
+      "song": "COMFIRM"
+    },
+    {
+      "genre": "rock",
+      "year": 2018,
+      "singer": "Reese Garrison",
+      "song": "FARMAGE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2007,
+      "singer": "Kerry Chandler",
+      "song": "HIVEDOM"
+    },
+    {
+      "genre": "country",
+      "year": 1997,
+      "singer": "Macdonald Lowery",
+      "song": "TINGLES"
+    },
+    {
+      "genre": "rock",
+      "year": 1997,
+      "singer": "Kathrine Price",
+      "song": "QUONK"
+    },
+    {
+      "genre": "pop",
+      "year": 2005,
+      "singer": "Geneva Carter",
+      "song": "MALATHION"
+    },
+    {
+      "genre": "jazz",
+      "year": 2001,
+      "singer": "Tricia Mckenzie",
+      "song": "SUPPORTAL"
+    },
+    {
+      "genre": "country",
+      "year": 1995,
+      "singer": "Brigitte Boyer",
+      "song": "FREAKIN"
+    },
+    {
+      "genre": "folk",
+      "year": 2000,
+      "singer": "Kaye Oliver",
+      "song": "INDEXIA"
+    },
+    {
+      "genre": "folk",
+      "year": 1999,
+      "singer": "Enid Francis",
+      "song": "OCEANICA"
+    },
+    {
+      "genre": "pop",
+      "year": 2000,
+      "singer": "Mullen Mcclure",
+      "song": "ACUSAGE"
+    },
+    {
+      "genre": "folk",
+      "year": 2012,
+      "singer": "Bobbie Chase",
+      "song": "LEXICONDO"
+    },
+    {
+      "genre": "country",
+      "year": 2014,
+      "singer": "Naomi Turner",
+      "song": "VIRVA"
+    },
+    {
+      "genre": "rap",
+      "year": 2015,
+      "singer": "Deidre Pierce",
+      "song": "ZENSURE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2009,
+      "singer": "Walton James",
+      "song": "XINWARE"
+    },
+    {
+      "genre": "jazz",
+      "year": 1998,
+      "singer": "Juliana Mckay",
+      "song": "INSURON"
+    },
+    {
+      "genre": "pop",
+      "year": 2005,
+      "singer": "Lakeisha Mathis",
+      "song": "MEMORA"
+    },
+    {
+      "genre": "country",
+      "year": 1993,
+      "singer": "Dyer Clarke",
+      "song": "ELECTONIC"
+    },
+    {
+      "genre": "pop",
+      "year": 1998,
+      "singer": "Mae Phillips",
+      "song": "STEELTAB"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2005,
+      "singer": "Denise Bullock",
+      "song": "AQUOAVO"
+    },
+    {
+      "genre": "country",
+      "year": 2015,
+      "singer": "Finch Tanner",
+      "song": "BIOHAB"
+    },
+    {
+      "genre": "pop",
+      "year": 2002,
+      "singer": "Roxie Valentine",
+      "song": "SOFTMICRO"
+    },
+    {
+      "genre": "classical",
+      "year": 2018,
+      "singer": "Harris Gross",
+      "song": "EVIDENDS"
+    },
+    {
+      "genre": "classical",
+      "year": 1998,
+      "singer": "Dominique Black",
+      "song": "EMOLTRA"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2002,
+      "singer": "Celeste Downs",
+      "song": "APPLIDECK"
+    },
+    {
+      "genre": "jazz",
+      "year": 2018,
+      "singer": "Dejesus Blackwell",
+      "song": "RUGSTARS"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2000,
+      "singer": "Roach Moore",
+      "song": "NITRACYR"
+    },
+    {
+      "genre": "rap",
+      "year": 1993,
+      "singer": "Fitzgerald Lyons",
+      "song": "KATAKANA"
+    },
+    {
+      "genre": "jazz",
+      "year": 1996,
+      "singer": "Myrtle Whitley",
+      "song": "MENBRAIN"
+    },
+    {
+      "genre": "folk",
+      "year": 2007,
+      "singer": "Sandy Hewitt",
+      "song": "GEEKOLOGY"
+    },
+    {
+      "genre": "pop",
+      "year": 1996,
+      "singer": "Gordon Norton",
+      "song": "GENMOM"
+    },
+    {
+      "genre": "rap",
+      "year": 2006,
+      "singer": "House Howard",
+      "song": "QUARX"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2010,
+      "singer": "Holt Melton",
+      "song": "NEUROCELL"
+    },
+    {
+      "genre": "folk",
+      "year": 2010,
+      "singer": "Steele Lewis",
+      "song": "BITENDREX"
+    },
+    {
+      "genre": "pop",
+      "year": 1993,
+      "singer": "Jenny Castro",
+      "song": "DANCITY"
+    },
+    {
+      "genre": "country",
+      "year": 2000,
+      "singer": "Lana Knowles",
+      "song": "ROOFORIA"
+    },
+    {
+      "genre": "folk",
+      "year": 2008,
+      "singer": "Dickerson Pate",
+      "song": "ENERVATE"
+    },
+    {
+      "genre": "country",
+      "year": 2006,
+      "singer": "Nancy Oneill",
+      "song": "ENORMO"
+    },
+    {
+      "genre": "jazz",
+      "year": 2000,
+      "singer": "Rush Zimmerman",
+      "song": "DIGIFAD"
+    },
+    {
+      "genre": "country",
+      "year": 2011,
+      "singer": "Tamra Langley",
+      "song": "SHOPABOUT"
+    },
+    {
+      "genre": "rap",
+      "year": 1994,
+      "singer": "Sweeney Jennings",
+      "song": "ISBOL"
+    },
+    {
+      "genre": "jazz",
+      "year": 2013,
+      "singer": "Myrna Mosley",
+      "song": "BUZZWORKS"
+    },
+    {
+      "genre": "pop",
+      "year": 1994,
+      "singer": "Karina Meyers",
+      "song": "AUTOGRATE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2020,
+      "singer": "Bowers English",
+      "song": "AQUAMATE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1999,
+      "singer": "Cooke Alford",
+      "song": "VIXO"
+    },
+    {
+      "genre": "rock",
+      "year": 2008,
+      "singer": "Jordan Silva",
+      "song": "SONGLINES"
+    },
+    {
+      "genre": "classical",
+      "year": 1995,
+      "singer": "Figueroa Mccall",
+      "song": "APEX"
+    },
+    {
+      "genre": "rock",
+      "year": 2019,
+      "singer": "Wynn Moss",
+      "song": "NAMEGEN"
+    },
+    {
+      "genre": "jazz",
+      "year": 1993,
+      "singer": "Emma Hahn",
+      "song": "TELPOD"
+    },
+    {
+      "genre": "country",
+      "year": 2002,
+      "singer": "Elsa Becker",
+      "song": "POLARIUM"
+    },
+    {
+      "genre": "folk",
+      "year": 1998,
+      "singer": "Florine Phelps",
+      "song": "HINWAY"
+    },
+    {
+      "genre": "pop",
+      "year": 2006,
+      "singer": "Hess Cunningham",
+      "song": "ANDERSHUN"
+    },
+    {
+      "genre": "folk",
+      "year": 2014,
+      "singer": "Hahn Lawrence",
+      "song": "CYTREK"
+    },
+    {
+      "genre": "pop",
+      "year": 2002,
+      "singer": "Norma Maldonado",
+      "song": "ZILLAN"
+    },
+    {
+      "genre": "rap",
+      "year": 2009,
+      "singer": "Sue Sullivan",
+      "song": "LOTRON"
+    },
+    {
+      "genre": "classical",
+      "year": 2015,
+      "singer": "Sondra Chen",
+      "song": "BUGSALL"
+    },
+    {
+      "genre": "rap",
+      "year": 2016,
+      "singer": "Parker Rosario",
+      "song": "SLAMBDA"
+    },
+    {
+      "genre": "classical",
+      "year": 1992,
+      "singer": "Orr Craft",
+      "song": "VOLAX"
+    },
+    {
+      "genre": "folk",
+      "year": 2015,
+      "singer": "Ellen Hines",
+      "song": "CYCLONICA"
+    },
+    {
+      "genre": "rock",
+      "year": 2017,
+      "singer": "Ochoa Stokes",
+      "song": "CONJURICA"
+    },
+    {
+      "genre": "country",
+      "year": 2009,
+      "singer": "Barbra Terrell",
+      "song": "EMPIRICA"
+    },
+    {
+      "genre": "rap",
+      "year": 2016,
+      "singer": "Carolyn Holt",
+      "song": "ESCENTA"
+    },
+    {
+      "genre": "rap",
+      "year": 2017,
+      "singer": "Oneil Mcgee",
+      "song": "ISOTERNIA"
+    },
+    {
+      "genre": "classical",
+      "year": 1994,
+      "singer": "Janie Bender",
+      "song": "CONFERIA"
+    },
+    {
+      "genre": "jazz",
+      "year": 2005,
+      "singer": "Hancock Ford",
+      "song": "VORTEXACO"
+    },
+    {
+      "genre": "classical",
+      "year": 1993,
+      "singer": "Alta Reilly",
+      "song": "DANJA"
+    },
+    {
+      "genre": "rock",
+      "year": 2019,
+      "singer": "Anthony Mason",
+      "song": "COGNICODE"
+    },
+    {
+      "genre": "pop",
+      "year": 2000,
+      "singer": "Shelly Rivas",
+      "song": "CAPSCREEN"
+    },
+    {
+      "genre": "pop",
+      "year": 2003,
+      "singer": "Bass Stout",
+      "song": "PERKLE"
+    },
+    {
+      "genre": "rap",
+      "year": 2018,
+      "singer": "Wright Talley",
+      "song": "DUFLEX"
+    },
+    {
+      "genre": "classical",
+      "year": 1999,
+      "singer": "Melba Wong",
+      "song": "UBERLUX"
+    },
+    {
+      "genre": "rap",
+      "year": 2018,
+      "singer": "Mcdowell Key",
+      "song": "ADORNICA"
+    },
+    {
+      "genre": "rap",
+      "year": 2001,
+      "singer": "Janelle Summers",
+      "song": "KIDSTOCK"
+    },
+    {
+      "genre": "jazz",
+      "year": 1999,
+      "singer": "George Mcguire",
+      "song": "NETBOOK"
+    },
+    {
+      "genre": "pop",
+      "year": 2016,
+      "singer": "Cash Mcconnell",
+      "song": "VERTON"
+    },
+    {
+      "genre": "classical",
+      "year": 2016,
+      "singer": "Mollie Bell",
+      "song": "COMVOY"
+    },
+    {
+      "genre": "classical",
+      "year": 1999,
+      "singer": "Rasmussen Fitzgerald",
+      "song": "SLOGANAUT"
+    },
+    {
+      "genre": "rock",
+      "year": 2006,
+      "singer": "Regina Rivera",
+      "song": "OLYMPIX"
+    },
+    {
+      "genre": "folk",
+      "year": 2013,
+      "singer": "Erna Ellison",
+      "song": "EXOTERIC"
+    },
+    {
+      "genre": "classical",
+      "year": 2017,
+      "singer": "Louise Hansen",
+      "song": "AFFLUEX"
+    },
+    {
+      "genre": "country",
+      "year": 1993,
+      "singer": "Marla Sears",
+      "song": "INTERODEO"
+    },
+    {
+      "genre": "folk",
+      "year": 2015,
+      "singer": "Luisa Rasmussen",
+      "song": "KLUGGER"
+    },
+    {
+      "genre": "classical",
+      "year": 1994,
+      "singer": "Monroe Vance",
+      "song": "NEPTIDE"
+    },
+    {
+      "genre": "folk",
+      "year": 2018,
+      "singer": "Rowena Duran",
+      "song": "KNEEDLES"
+    },
+    {
+      "genre": "rock",
+      "year": 2013,
+      "singer": "Elisabeth Golden",
+      "song": "OLUCORE"
+    },
+    {
+      "genre": "classical",
+      "year": 2016,
+      "singer": "Riley Ruiz",
+      "song": "NETUR"
+    },
+    {
+      "genre": "country",
+      "year": 1995,
+      "singer": "Anastasia Buckner",
+      "song": "SENSATE"
+    },
+    {
+      "genre": "rock",
+      "year": 2006,
+      "singer": "Maxine Gillespie",
+      "song": "KINDALOO"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2008,
+      "singer": "Britt Hart",
+      "song": "PASTURIA"
+    },
+    {
+      "genre": "country",
+      "year": 2020,
+      "singer": "Celina Stevens",
+      "song": "ELEMANTRA"
+    },
+    {
+      "genre": "rock",
+      "year": 2012,
+      "singer": "Sonya Dodson",
+      "song": "METROZ"
+    },
+    {
+      "genre": "rock",
+      "year": 1994,
+      "singer": "Tucker Hensley",
+      "song": "ZIDANT"
+    },
+    {
+      "genre": "rock",
+      "year": 2001,
+      "singer": "Mercedes Carson",
+      "song": "ECOLIGHT"
+    },
+    {
+      "genre": "jazz",
+      "year": 2006,
+      "singer": "Cross Travis",
+      "song": "EBIDCO"
+    },
+    {
+      "genre": "jazz",
+      "year": 2009,
+      "singer": "Hall Bradley",
+      "song": "QUINTITY"
+    },
+    {
+      "genre": "folk",
+      "year": 1992,
+      "singer": "Wilson Lambert",
+      "song": "MUSIX"
+    },
+    {
+      "genre": "rock",
+      "year": 1994,
+      "singer": "Caroline Tate",
+      "song": "MIRACULA"
+    },
+    {
+      "genre": "rap",
+      "year": 1995,
+      "singer": "Lourdes Ross",
+      "song": "COLLAIRE"
+    },
+    {
+      "genre": "pop",
+      "year": 2018,
+      "singer": "Stewart Kerr",
+      "song": "MOREGANIC"
+    },
+    {
+      "genre": "pop",
+      "year": 2013,
+      "singer": "Kathy Rowe",
+      "song": "INSURESYS"
+    },
+    {
+      "genre": "jazz",
+      "year": 2017,
+      "singer": "Barnes Sanders",
+      "song": "FUELTON"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2016,
+      "singer": "Grimes Deleon",
+      "song": "SNACKTION"
+    },
+    {
+      "genre": "pop",
+      "year": 2001,
+      "singer": "Taylor Ball",
+      "song": "ZEROLOGY"
+    },
+    {
+      "genre": "pop",
+      "year": 2011,
+      "singer": "Rutledge Hester",
+      "song": "OPTICON"
+    },
+    {
+      "genre": "rap",
+      "year": 1993,
+      "singer": "Burris Manning",
+      "song": "NUTRALAB"
+    },
+    {
+      "genre": "folk",
+      "year": 1996,
+      "singer": "Carrillo Alvarado",
+      "song": "MARKETOID"
+    },
+    {
+      "genre": "classical",
+      "year": 2015,
+      "singer": "Lester Daniels",
+      "song": "QUADEEBO"
+    },
+    {
+      "genre": "rock",
+      "year": 2014,
+      "singer": "Guadalupe Serrano",
+      "song": "GYNK"
+    },
+    {
+      "genre": "rock",
+      "year": 2020,
+      "singer": "Gates Harper",
+      "song": "TELEQUIET"
+    },
+    {
+      "genre": "rap",
+      "year": 1997,
+      "singer": "Jarvis Cruz",
+      "song": "HOUSEDOWN"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2011,
+      "singer": "Corrine Lindsay",
+      "song": "ENERFORCE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1998,
+      "singer": "Dina Burris",
+      "song": "BEADZZA"
+    },
+    {
+      "genre": "pop",
+      "year": 2007,
+      "singer": "Tanner Cabrera",
+      "song": "EMTRAC"
+    },
+    {
+      "genre": "country",
+      "year": 2009,
+      "singer": "Clay Roach",
+      "song": "ETERNIS"
+    },
+    {
+      "genre": "country",
+      "year": 2008,
+      "singer": "Roberta Burgess",
+      "song": "YURTURE"
+    },
+    {
+      "genre": "jazz",
+      "year": 2005,
+      "singer": "Kim Richmond",
+      "song": "TROPOLI"
+    },
+    {
+      "genre": "pop",
+      "year": 2019,
+      "singer": "Daugherty Davis",
+      "song": "HOMETOWN"
+    },
+    {
+      "genre": "rock",
+      "year": 2018,
+      "singer": "Stacie Morales",
+      "song": "ZAJ"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2015,
+      "singer": "Powers Shepard",
+      "song": "MEDALERT"
+    },
+    {
+      "genre": "jazz",
+      "year": 1997,
+      "singer": "Potts Mcdaniel",
+      "song": "ENDIPINE"
+    },
+    {
+      "genre": "jazz",
+      "year": 2005,
+      "singer": "Townsend Murphy",
+      "song": "ROTODYNE"
+    },
+    {
+      "genre": "country",
+      "year": 2010,
+      "singer": "Tanisha Wiley",
+      "song": "DEVILTOE"
+    },
+    {
+      "genre": "jazz",
+      "year": 2014,
+      "singer": "Kayla Stark",
+      "song": "XSPORTS"
+    },
+    {
+      "genre": "folk",
+      "year": 2007,
+      "singer": "Owens Blake",
+      "song": "COMCUR"
+    },
+    {
+      "genre": "rock",
+      "year": 2015,
+      "singer": "Karla Holmes",
+      "song": "LUDAK"
+    },
+    {
+      "genre": "pop",
+      "year": 1997,
+      "singer": "Felecia Dawson",
+      "song": "HARMONEY"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2020,
+      "singer": "Fernandez Michael",
+      "song": "BITREX"
+    },
+    {
+      "genre": "classical",
+      "year": 1998,
+      "singer": "Neva Grimes",
+      "song": "MEGALL"
+    },
+    {
+      "genre": "rock",
+      "year": 1992,
+      "singer": "Lilly Gill",
+      "song": "ZENSOR"
+    },
+    {
+      "genre": "rock",
+      "year": 1992,
+      "singer": "Amalia Leblanc",
+      "song": "GEEKULAR"
+    },
+    {
+      "genre": "country",
+      "year": 1995,
+      "singer": "Lucas Vinson",
+      "song": "COMVEY"
+    },
+    {
+      "genre": "rap",
+      "year": 2015,
+      "singer": "Bradford Wolfe",
+      "song": "LETPRO"
+    },
+    {
+      "genre": "pop",
+      "year": 2018,
+      "singer": "Sheppard Berg",
+      "song": "AUTOMON"
+    },
+    {
+      "genre": "pop",
+      "year": 2020,
+      "singer": "Stevens Dudley",
+      "song": "IDEGO"
+    },
+    {
+      "genre": "country",
+      "year": 2004,
+      "singer": "Noel Benson",
+      "song": "LIMAGE"
+    },
+    {
+      "genre": "classical",
+      "year": 2011,
+      "singer": "Navarro Nelson",
+      "song": "SIGNIDYNE"
+    },
+    {
+      "genre": "jazz",
+      "year": 2001,
+      "singer": "Alexandria Hoover",
+      "song": "ACCRUEX"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2011,
+      "singer": "Joyce Hooper",
+      "song": "ZOGAK"
+    },
+    {
+      "genre": "classical",
+      "year": 2019,
+      "singer": "May Bridges",
+      "song": "XUMONK"
+    },
+    {
+      "genre": "pop",
+      "year": 1997,
+      "singer": "Vaughan Graves",
+      "song": "EXOBLUE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2010,
+      "singer": "Margarita Burton",
+      "song": "THREDZ"
+    },
+    {
+      "genre": "folk",
+      "year": 1997,
+      "singer": "Mai Gates",
+      "song": "UNEEQ"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2000,
+      "singer": "Short Bryan",
+      "song": "INTERGEEK"
+    },
+    {
+      "genre": "pop",
+      "year": 1993,
+      "singer": "Blankenship Levy",
+      "song": "SPEEDBOLT"
+    },
+    {
+      "genre": "rock",
+      "year": 2015,
+      "singer": "Johnson Cantu",
+      "song": "BIOTICA"
+    },
+    {
+      "genre": "pop",
+      "year": 2007,
+      "singer": "Jodie Tucker",
+      "song": "INQUALA"
+    },
+    {
+      "genre": "rock",
+      "year": 2016,
+      "singer": "Ballard Garcia",
+      "song": "QABOOS"
+    },
+    {
+      "genre": "pop",
+      "year": 1996,
+      "singer": "Mandy Hatfield",
+      "song": "LIQUIDOC"
+    },
+    {
+      "genre": "country",
+      "year": 2012,
+      "singer": "Thompson Ingram",
+      "song": "FROLIX"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1998,
+      "singer": "Marshall Hammond",
+      "song": "ORBALIX"
+    },
+    {
+      "genre": "pop",
+      "year": 2015,
+      "singer": "Madden Howell",
+      "song": "ZILODYNE"
+    },
+    {
+      "genre": "rock",
+      "year": 1999,
+      "singer": "Kimberley Wynn",
+      "song": "ZILCH"
+    },
+    {
+      "genre": "country",
+      "year": 2020,
+      "singer": "Caitlin Wright",
+      "song": "PLASMOS"
+    },
+    {
+      "genre": "rock",
+      "year": 2018,
+      "singer": "Beryl Rosales",
+      "song": "MAGNEMO"
+    },
+    {
+      "genre": "classical",
+      "year": 2019,
+      "singer": "Freeman Ochoa",
+      "song": "UNI"
+    },
+    {
+      "genre": "rap",
+      "year": 2003,
+      "singer": "Fleming Shaffer",
+      "song": "COMTENT"
+    },
+    {
+      "genre": "jazz",
+      "year": 1993,
+      "singer": "Mary Nunez",
+      "song": "ACRUEX"
+    },
+    {
+      "genre": "pop",
+      "year": 2000,
+      "singer": "Eaton Atkinson",
+      "song": "NORALI"
+    },
+    {
+      "genre": "classical",
+      "year": 1993,
+      "singer": "Bradshaw Smith",
+      "song": "JIMBIES"
+    },
+    {
+      "genre": "classical",
+      "year": 2004,
+      "singer": "Marguerite Padilla",
+      "song": "FIBEROX"
+    },
+    {
+      "genre": "pop",
+      "year": 2014,
+      "singer": "Harding Goodman",
+      "song": "TROLLERY"
+    },
+    {
+      "genre": "rap",
+      "year": 2013,
+      "singer": "Eunice Gay",
+      "song": "ENAUT"
+    },
+    {
+      "genre": "classical",
+      "year": 1992,
+      "singer": "Cassie Charles",
+      "song": "NEWCUBE"
+    },
+    {
+      "genre": "folk",
+      "year": 2012,
+      "singer": "Patsy Meyer",
+      "song": "AUSTEX"
+    },
+    {
+      "genre": "folk",
+      "year": 1999,
+      "singer": "Mckenzie Bernard",
+      "song": "ZBOO"
+    },
+    {
+      "genre": "classical",
+      "year": 1996,
+      "singer": "Cheri Delaney",
+      "song": "ENTALITY"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2008,
+      "singer": "Selena Crosby",
+      "song": "OZEAN"
+    },
+    {
+      "genre": "pop",
+      "year": 1994,
+      "singer": "Lauri Mcmahon",
+      "song": "SCENTY"
+    },
+    {
+      "genre": "pop",
+      "year": 2012,
+      "singer": "Lloyd Watts",
+      "song": "STREZZO"
+    },
+    {
+      "genre": "rock",
+      "year": 2015,
+      "singer": "Lydia Gamble",
+      "song": "LINGOAGE"
+    },
+    {
+      "genre": "folk",
+      "year": 2007,
+      "singer": "Sosa Fox",
+      "song": "ROCKYARD"
+    },
+    {
+      "genre": "classical",
+      "year": 2011,
+      "singer": "Debora Kemp",
+      "song": "BRAINCLIP"
+    },
+    {
+      "genre": "classical",
+      "year": 2000,
+      "singer": "Sophia Collins",
+      "song": "HATOLOGY"
+    },
+    {
+      "genre": "rap",
+      "year": 2006,
+      "singer": "Wilkins Arnold",
+      "song": "KIDGREASE"
+    },
+    {
+      "genre": "jazz",
+      "year": 2002,
+      "singer": "Edna Finch",
+      "song": "ZILLADYNE"
+    },
+    {
+      "genre": "rap",
+      "year": 2004,
+      "singer": "Sasha Woods",
+      "song": "QUARMONY"
+    },
+    {
+      "genre": "rap",
+      "year": 1992,
+      "singer": "Angel Byers",
+      "song": "FURNIGEER"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1999,
+      "singer": "Dawn Merritt",
+      "song": "EYEWAX"
+    },
+    {
+      "genre": "pop",
+      "year": 2001,
+      "singer": "Jordan Roth",
+      "song": "ENDICIL"
+    },
+    {
+      "genre": "pop",
+      "year": 1994,
+      "singer": "Winters Bishop",
+      "song": "COLUMELLA"
+    },
+    {
+      "genre": "pop",
+      "year": 2000,
+      "singer": "Bernadine Frost",
+      "song": "DIGIGENE"
+    },
+    {
+      "genre": "jazz",
+      "year": 2010,
+      "singer": "Hartman Mercer",
+      "song": "CORMORAN"
+    },
+    {
+      "genre": "classical",
+      "year": 2012,
+      "singer": "Ware Montgomery",
+      "song": "DOGSPA"
+    },
+    {
+      "genre": "pop",
+      "year": 2009,
+      "singer": "Houston Carey",
+      "song": "ELPRO"
+    },
+    {
+      "genre": "country",
+      "year": 2007,
+      "singer": "Simon Nolan",
+      "song": "ACCUSAGE"
+    },
+    {
+      "genre": "folk",
+      "year": 2015,
+      "singer": "Catherine Rivers",
+      "song": "SURETECH"
+    },
+    {
+      "genre": "country",
+      "year": 1996,
+      "singer": "Clare Jacobson",
+      "song": "ORBAXTER"
+    },
+    {
+      "genre": "pop",
+      "year": 2008,
+      "singer": "Lupe Anderson",
+      "song": "FLEETMIX"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2020,
+      "singer": "Amy Fuentes",
+      "song": "EXOSPEED"
+    },
+    {
+      "genre": "country",
+      "year": 2011,
+      "singer": "Staci Trevino",
+      "song": "GEOSTELE"
+    },
+    {
+      "genre": "rock",
+      "year": 1992,
+      "singer": "Keri Fleming",
+      "song": "AQUAFIRE"
+    },
+    {
+      "genre": "jazz",
+      "year": 2005,
+      "singer": "Hood Rose",
+      "song": "KOG"
+    },
+    {
+      "genre": "classical",
+      "year": 2013,
+      "singer": "Elba Sellers",
+      "song": "ZILLIDIUM"
+    },
+    {
+      "genre": "classical",
+      "year": 2011,
+      "singer": "Frye Noble",
+      "song": "EARBANG"
+    },
+    {
+      "genre": "folk",
+      "year": 2010,
+      "singer": "Dotson Woodard",
+      "song": "ECSTASIA"
+    },
+    {
+      "genre": "country",
+      "year": 2016,
+      "singer": "Michelle Snyder",
+      "song": "AQUASURE"
+    },
+    {
+      "genre": "rap",
+      "year": 1999,
+      "singer": "Edwina Holloway",
+      "song": "DOGNOST"
+    },
+    {
+      "genre": "pop",
+      "year": 1993,
+      "singer": "Crawford Harmon",
+      "song": "TETAK"
+    },
+    {
+      "genre": "country",
+      "year": 2011,
+      "singer": "Allison Todd",
+      "song": "BIOLIVE"
+    },
+    {
+      "genre": "rock",
+      "year": 2006,
+      "singer": "Kristen Hawkins",
+      "song": "ZIDOX"
+    },
+    {
+      "genre": "classical",
+      "year": 2007,
+      "singer": "Mitchell Schneider",
+      "song": "PURIA"
+    },
+    {
+      "genre": "folk",
+      "year": 1995,
+      "singer": "Herring Kim",
+      "song": "GEEKOSIS"
+    },
+    {
+      "genre": "rock",
+      "year": 2004,
+      "singer": "Roslyn Henry",
+      "song": "ZILLANET"
+    },
+    {
+      "genre": "jazz",
+      "year": 2002,
+      "singer": "Marlene House",
+      "song": "SYBIXTEX"
+    },
+    {
+      "genre": "classical",
+      "year": 2006,
+      "singer": "Fox Hull",
+      "song": "SATIANCE"
+    },
+    {
+      "genre": "rap",
+      "year": 2018,
+      "singer": "Mcconnell Floyd",
+      "song": "ELENTRIX"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2005,
+      "singer": "Leigh Sampson",
+      "song": "MEDCOM"
+    },
+    {
+      "genre": "rap",
+      "year": 2020,
+      "singer": "Howe Olson",
+      "song": "PATHWAYS"
+    },
+    {
+      "genre": "country",
+      "year": 2020,
+      "singer": "Clemons Benton",
+      "song": "ISOSPHERE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1995,
+      "singer": "Wheeler Goodwin",
+      "song": "EXIAND"
+    },
+    {
+      "genre": "rap",
+      "year": 2001,
+      "singer": "Robbie Beasley",
+      "song": "COSMOSIS"
+    },
+    {
+      "genre": "pop",
+      "year": 2004,
+      "singer": "Christensen Albert",
+      "song": "VORATAK"
+    },
+    {
+      "genre": "classical",
+      "year": 2011,
+      "singer": "Fanny Herrera",
+      "song": "WAZZU"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2004,
+      "singer": "Magdalena Mccarty",
+      "song": "EDECINE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1993,
+      "singer": "Anna Mack",
+      "song": "AMTAP"
+    },
+    {
+      "genre": "rap",
+      "year": 1994,
+      "singer": "Nina Delacruz",
+      "song": "TRANSLINK"
+    },
+    {
+      "genre": "rock",
+      "year": 1992,
+      "singer": "Ines Santos",
+      "song": "IMMUNICS"
+    },
+    {
+      "genre": "classical",
+      "year": 2019,
+      "singer": "Odom Duncan",
+      "song": "KIOSK"
+    },
+    {
+      "genre": "pop",
+      "year": 1995,
+      "singer": "Natalia Finley",
+      "song": "DIGIAL"
+    },
+    {
+      "genre": "rock",
+      "year": 2020,
+      "singer": "Toni Huffman",
+      "song": "RADIANTIX"
+    },
+    {
+      "genre": "country",
+      "year": 1997,
+      "singer": "Cohen Hall",
+      "song": "TOURMANIA"
+    },
+    {
+      "genre": "rap",
+      "year": 2011,
+      "singer": "Hilda Leach",
+      "song": "COMCUBINE"
+    },
+    {
+      "genre": "pop",
+      "year": 2019,
+      "singer": "Maritza Harris",
+      "song": "ZYPLE"
+    },
+    {
+      "genre": "jazz",
+      "year": 1994,
+      "singer": "Savage Burnett",
+      "song": "VISALIA"
+    },
+    {
+      "genre": "country",
+      "year": 2001,
+      "singer": "Levine Moody",
+      "song": "ZOLAVO"
+    },
+    {
+      "genre": "jazz",
+      "year": 2008,
+      "singer": "Rosalinda Sosa",
+      "song": "ZILENCIO"
+    },
+    {
+      "genre": "classical",
+      "year": 2002,
+      "singer": "Leona Harrington",
+      "song": "COMVEX"
+    },
+    {
+      "genre": "rock",
+      "year": 2006,
+      "singer": "Gibbs Blankenship",
+      "song": "MIXERS"
+    },
+    {
+      "genre": "rap",
+      "year": 2014,
+      "singer": "Glenda Rojas",
+      "song": "PHOTOBIN"
+    },
+    {
+      "genre": "rap",
+      "year": 1995,
+      "singer": "Gallegos Spencer",
+      "song": "SHEPARD"
+    },
+    {
+      "genre": "rap",
+      "year": 1995,
+      "singer": "Tamera Faulkner",
+      "song": "BALUBA"
+    },
+    {
+      "genre": "pop",
+      "year": 2019,
+      "singer": "Brooke Hancock",
+      "song": "VALREDA"
+    },
+    {
+      "genre": "rock",
+      "year": 1996,
+      "singer": "Nieves Slater",
+      "song": "ZORROMOP"
+    },
+    {
+      "genre": "pop",
+      "year": 2008,
+      "singer": "Minnie Potter",
+      "song": "KYAGURU"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1996,
+      "singer": "Janine Keith",
+      "song": "MOTOVATE"
+    },
+    {
+      "genre": "pop",
+      "year": 2016,
+      "singer": "Ruth Hamilton",
+      "song": "XANIDE"
+    },
+    {
+      "genre": "jazz",
+      "year": 2009,
+      "singer": "Roman Beach",
+      "song": "ISOTRONIC"
+    },
+    {
+      "genre": "folk",
+      "year": 2010,
+      "singer": "Hunter Perez",
+      "song": "OMNIGOG"
+    },
+    {
+      "genre": "classical",
+      "year": 2012,
+      "singer": "Wiggins Hunter",
+      "song": "BEDLAM"
+    },
+    {
+      "genre": "folk",
+      "year": 1992,
+      "singer": "Atkinson Yates",
+      "song": "ANARCO"
+    },
+    {
+      "genre": "country",
+      "year": 1995,
+      "singer": "Aimee Castaneda",
+      "song": "KINETICUT"
+    },
+    {
+      "genre": "jazz",
+      "year": 2000,
+      "singer": "Carissa Kinney",
+      "song": "COFINE"
+    },
+    {
+      "genre": "country",
+      "year": 2015,
+      "singer": "Cannon Wagner",
+      "song": "JASPER"
+    },
+    {
+      "genre": "classical",
+      "year": 2013,
+      "singer": "Claudine Rowland",
+      "song": "STOCKPOST"
+    },
+    {
+      "genre": "jazz",
+      "year": 2012,
+      "singer": "Ursula Gibbs",
+      "song": "PROTODYNE"
+    },
+    {
+      "genre": "rap",
+      "year": 2019,
+      "singer": "Dorothy Bentley",
+      "song": "CODAX"
+    },
+    {
+      "genre": "jazz",
+      "year": 2006,
+      "singer": "Decker Houston",
+      "song": "MAGNAFONE"
+    },
+    {
+      "genre": "rap",
+      "year": 2015,
+      "singer": "Gertrude Curry",
+      "song": "GLEAMINK"
+    },
+    {
+      "genre": "country",
+      "year": 2014,
+      "singer": "Gillespie Lopez",
+      "song": "KONGLE"
+    },
+    {
+      "genre": "rap",
+      "year": 2002,
+      "singer": "Good Wiggins",
+      "song": "LOVEPAD"
+    },
+    {
+      "genre": "rock",
+      "year": 2004,
+      "singer": "Dale Cooke",
+      "song": "TALENDULA"
+    },
+    {
+      "genre": "rock",
+      "year": 2004,
+      "singer": "Heidi White",
+      "song": "EXOTECHNO"
+    },
+    {
+      "genre": "jazz",
+      "year": 1992,
+      "singer": "Simpson Ortega",
+      "song": "PIGZART"
+    },
+    {
+      "genre": "rock",
+      "year": 2005,
+      "singer": "Sadie Underwood",
+      "song": "ACRODANCE"
+    },
+    {
+      "genre": "country",
+      "year": 2006,
+      "singer": "Marsha Buchanan",
+      "song": "SUSTENZA"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2005,
+      "singer": "Martinez Mccray",
+      "song": "BISBA"
+    },
+    {
+      "genre": "country",
+      "year": 2016,
+      "singer": "Estella Nash",
+      "song": "KONGENE"
+    },
+    {
+      "genre": "classical",
+      "year": 1997,
+      "singer": "Judith Foster",
+      "song": "TUBESYS"
+    },
+    {
+      "genre": "rock",
+      "year": 2017,
+      "singer": "Perry Stein",
+      "song": "STRALOY"
+    },
+    {
+      "genre": "jazz",
+      "year": 2012,
+      "singer": "Aisha Barrett",
+      "song": "MARTGO"
+    },
+    {
+      "genre": "rap",
+      "year": 2003,
+      "singer": "Silva Kramer",
+      "song": "ECRATER"
+    },
+    {
+      "genre": "rap",
+      "year": 1995,
+      "singer": "Richardson Sherman",
+      "song": "VICON"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1993,
+      "singer": "Brewer Mccormick",
+      "song": "PROXSOFT"
+    },
+    {
+      "genre": "pop",
+      "year": 2017,
+      "singer": "Lamb Daugherty",
+      "song": "NIKUDA"
+    },
+    {
+      "genre": "pop",
+      "year": 1997,
+      "singer": "Paula Lang",
+      "song": "NORALEX"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2001,
+      "singer": "Shepard Crane",
+      "song": "BOILCAT"
+    },
+    {
+      "genre": "country",
+      "year": 2013,
+      "singer": "Raymond Walls",
+      "song": "PETICULAR"
+    },
+    {
+      "genre": "country",
+      "year": 2020,
+      "singer": "Katherine Craig",
+      "song": "KAGE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1992,
+      "singer": "Verna Soto",
+      "song": "CEDWARD"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2013,
+      "singer": "Buchanan Flynn",
+      "song": "MATRIXITY"
+    },
+    {
+      "genre": "pop",
+      "year": 2006,
+      "singer": "Herminia Wallace",
+      "song": "ONTAGENE"
+    },
+    {
+      "genre": "folk",
+      "year": 2002,
+      "singer": "Deborah Torres",
+      "song": "FIREWAX"
+    },
+    {
+      "genre": "pop",
+      "year": 2020,
+      "singer": "Lucia Romero",
+      "song": "ASSISTIA"
+    },
+    {
+      "genre": "rap",
+      "year": 2000,
+      "singer": "Sanchez Hobbs",
+      "song": "PORTALINE"
+    },
+    {
+      "genre": "jazz",
+      "year": 2016,
+      "singer": "Millie Russo",
+      "song": "MANTRIX"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1999,
+      "singer": "Vanessa Barry",
+      "song": "TERRASYS"
+    },
+    {
+      "genre": "rock",
+      "year": 2003,
+      "singer": "Obrien Sargent",
+      "song": "NAVIR"
+    },
+    {
+      "genre": "jazz",
+      "year": 2009,
+      "singer": "Barton Holland",
+      "song": "ACUMENTOR"
+    },
+    {
+      "genre": "rock",
+      "year": 2008,
+      "singer": "Gould Frazier",
+      "song": "JUNIPOOR"
+    },
+    {
+      "genre": "classical",
+      "year": 1996,
+      "singer": "Pearson Cooley",
+      "song": "ZAGGLE"
+    },
+    {
+      "genre": "rock",
+      "year": 1997,
+      "singer": "Bray Farley",
+      "song": "VURBO"
+    },
+    {
+      "genre": "classical",
+      "year": 2019,
+      "singer": "Gabrielle Banks",
+      "song": "MIRACLIS"
+    },
+    {
+      "genre": "classical",
+      "year": 2011,
+      "singer": "Francisca Best",
+      "song": "PORTICA"
+    },
+    {
+      "genre": "rap",
+      "year": 1992,
+      "singer": "Fay Conner",
+      "song": "BLURRYBUS"
+    },
+    {
+      "genre": "rap",
+      "year": 2004,
+      "singer": "Stuart Sweet",
+      "song": "VENDBLEND"
+    },
+    {
+      "genre": "classical",
+      "year": 2011,
+      "singer": "Pauline Haynes",
+      "song": "DATAGEN"
+    },
+    {
+      "genre": "classical",
+      "year": 1998,
+      "singer": "Allen Johnston",
+      "song": "ZIZZLE"
+    },
+    {
+      "genre": "classical",
+      "year": 1996,
+      "singer": "Jones Logan",
+      "song": "XIIX"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2007,
+      "singer": "Lacy Roy",
+      "song": "ZENTILITY"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2003,
+      "singer": "Mosley Knox",
+      "song": "EXOPLODE"
+    },
+    {
+      "genre": "classical",
+      "year": 2001,
+      "singer": "Schultz Dorsey",
+      "song": "EXTRAGEN"
+    },
+    {
+      "genre": "pop",
+      "year": 2013,
+      "singer": "Singleton Baldwin",
+      "song": "EXTRAGENE"
+    },
+    {
+      "genre": "classical",
+      "year": 1998,
+      "singer": "Katy Peters",
+      "song": "DREAMIA"
+    },
+    {
+      "genre": "country",
+      "year": 2007,
+      "singer": "Lorena Chavez",
+      "song": "EXOSPACE"
+    },
+    {
+      "genre": "folk",
+      "year": 2010,
+      "singer": "Valenzuela Strickland",
+      "song": "KENGEN"
+    },
+    {
+      "genre": "classical",
+      "year": 2019,
+      "singer": "Shields Robbins",
+      "song": "COMBOGEN"
+    },
+    {
+      "genre": "classical",
+      "year": 2004,
+      "singer": "Phyllis Noel",
+      "song": "SECURIA"
+    },
+    {
+      "genre": "pop",
+      "year": 2002,
+      "singer": "Madeline Davenport",
+      "song": "TEMORAK"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1993,
+      "singer": "Tabatha Ortiz",
+      "song": "EARTHPLEX"
+    },
+    {
+      "genre": "classical",
+      "year": 2006,
+      "singer": "Baxter Boyd",
+      "song": "GENEKOM"
+    },
+    {
+      "genre": "folk",
+      "year": 2012,
+      "singer": "Warren Luna",
+      "song": "PANZENT"
+    },
+    {
+      "genre": "jazz",
+      "year": 2007,
+      "singer": "Esmeralda Medina",
+      "song": "ACCUPRINT"
+    },
+    {
+      "genre": "pop",
+      "year": 2004,
+      "singer": "Griffin Potts",
+      "song": "SQUISH"
+    },
+    {
+      "genre": "rap",
+      "year": 1997,
+      "singer": "Cook Parks",
+      "song": "COSMETEX"
+    },
+    {
+      "genre": "folk",
+      "year": 2015,
+      "singer": "Imelda Hoffman",
+      "song": "INTRADISK"
+    },
+    {
+      "genre": "folk",
+      "year": 2012,
+      "singer": "Bishop Wooten",
+      "song": "UTARA"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2000,
+      "singer": "Scott Duffy",
+      "song": "NIPAZ"
+    },
+    {
+      "genre": "rap",
+      "year": 1992,
+      "singer": "King Carrillo",
+      "song": "BARKARAMA"
+    },
+    {
+      "genre": "folk",
+      "year": 2006,
+      "singer": "Clarke Pearson",
+      "song": "DADABASE"
+    },
+    {
+      "genre": "country",
+      "year": 2004,
+      "singer": "Thornton Livingston",
+      "song": "ISOSWITCH"
+    },
+    {
+      "genre": "rock",
+      "year": 2002,
+      "singer": "Avis Glover",
+      "song": "WARETEL"
+    },
+    {
+      "genre": "folk",
+      "year": 1997,
+      "singer": "Annie Bush",
+      "song": "NETAGY"
+    },
+    {
+      "genre": "rock",
+      "year": 2018,
+      "singer": "Leanne Erickson",
+      "song": "VIOCULAR"
+    },
+    {
+      "genre": "rock",
+      "year": 2014,
+      "singer": "Penny Elliott",
+      "song": "DIGINETIC"
+    },
+    {
+      "genre": "pop",
+      "year": 1995,
+      "singer": "Alfreda Britt",
+      "song": "KAGGLE"
+    },
+    {
+      "genre": "jazz",
+      "year": 2008,
+      "singer": "Angelique Gilmore",
+      "song": "LIQUICOM"
+    },
+    {
+      "genre": "pop",
+      "year": 2005,
+      "singer": "Bright Reed",
+      "song": "VISUALIX"
+    },
+    {
+      "genre": "jazz",
+      "year": 2020,
+      "singer": "Cole Valdez",
+      "song": "NURPLEX"
+    },
+    {
+      "genre": "folk",
+      "year": 2011,
+      "singer": "Russo Velez",
+      "song": "ROCKABYE"
+    },
+    {
+      "genre": "folk",
+      "year": 2015,
+      "singer": "Juliette Porter",
+      "song": "OPTICOM"
+    },
+    {
+      "genre": "folk",
+      "year": 2020,
+      "singer": "Shauna Villarreal",
+      "song": "BUZZOPIA"
+    },
+    {
+      "genre": "rap",
+      "year": 2012,
+      "singer": "Hobbs Larson",
+      "song": "SPORTAN"
+    },
+    {
+      "genre": "pop",
+      "year": 1996,
+      "singer": "Wells Macias",
+      "song": "MOMENTIA"
+    },
+    {
+      "genre": "jazz",
+      "year": 2004,
+      "singer": "Sherrie Horton",
+      "song": "AUSTECH"
+    },
+    {
+      "genre": "pop",
+      "year": 2008,
+      "singer": "Earnestine Dixon",
+      "song": "ISOSTREAM"
+    },
+    {
+      "genre": "rap",
+      "year": 2004,
+      "singer": "Alexandra Wheeler",
+      "song": "PEARLESSA"
+    },
+    {
+      "genre": "pop",
+      "year": 1999,
+      "singer": "Robbins Henderson",
+      "song": "INFOTRIPS"
+    },
+    {
+      "genre": "rock",
+      "year": 2014,
+      "singer": "Kristina Hicks",
+      "song": "OPTIQUE"
+    },
+    {
+      "genre": "rock",
+      "year": 1999,
+      "singer": "Crystal Jensen",
+      "song": "FUELWORKS"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1997,
+      "singer": "Chan Everett",
+      "song": "ASIMILINE"
+    },
+    {
+      "genre": "folk",
+      "year": 2018,
+      "singer": "Walls Sanchez",
+      "song": "APPLICA"
+    },
+    {
+      "genre": "country",
+      "year": 2012,
+      "singer": "Katina Parsons",
+      "song": "ZILLAR"
+    },
+    {
+      "genre": "jazz",
+      "year": 2011,
+      "singer": "Olsen Lamb",
+      "song": "WRAPTURE"
+    },
+    {
+      "genre": "folk",
+      "year": 2001,
+      "singer": "Benjamin Wall",
+      "song": "CUBIX"
+    },
+    {
+      "genre": "rap",
+      "year": 2011,
+      "singer": "Merritt Harding",
+      "song": "BLUEGRAIN"
+    },
+    {
+      "genre": "pop",
+      "year": 2002,
+      "singer": "Snow Ayala",
+      "song": "PORTALIS"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2004,
+      "singer": "Johns Prince",
+      "song": "ZAPPIX"
+    },
+    {
+      "genre": "classical",
+      "year": 1996,
+      "singer": "Cheryl Robertson",
+      "song": "XYLAR"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2017,
+      "singer": "Hannah Hughes",
+      "song": "EARTHPURE"
+    },
+    {
+      "genre": "rock",
+      "year": 2016,
+      "singer": "Audrey Stanton",
+      "song": "OTHERWAY"
+    },
+    {
+      "genre": "country",
+      "year": 1999,
+      "singer": "Boone Jimenez",
+      "song": "ASSURITY"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1999,
+      "singer": "Dickson Powell",
+      "song": "DELPHIDE"
+    },
+    {
+      "genre": "pop",
+      "year": 2015,
+      "singer": "Jacklyn Waters",
+      "song": "EARWAX"
+    },
+    {
+      "genre": "rock",
+      "year": 1998,
+      "singer": "Randolph Bray",
+      "song": "STUCCO"
+    },
+    {
+      "genre": "country",
+      "year": 1992,
+      "singer": "Wong Stephenson",
+      "song": "SURELOGIC"
+    },
+    {
+      "genre": "rap",
+      "year": 2013,
+      "singer": "Hopkins Gomez",
+      "song": "COREPAN"
+    },
+    {
+      "genre": "rock",
+      "year": 2003,
+      "singer": "Tillman Christian",
+      "song": "RETRACK"
+    },
+    {
+      "genre": "folk",
+      "year": 2002,
+      "singer": "Hogan Kane",
+      "song": "PRISMATIC"
+    },
+    {
+      "genre": "pop",
+      "year": 2011,
+      "singer": "Liza Hardin",
+      "song": "REMOLD"
+    },
+    {
+      "genre": "folk",
+      "year": 1992,
+      "singer": "Cleveland Gilliam",
+      "song": "INVENTURE"
+    },
+    {
+      "genre": "jazz",
+      "year": 2005,
+      "singer": "Perez Sweeney",
+      "song": "RODEOMAD"
+    },
+    {
+      "genre": "folk",
+      "year": 2007,
+      "singer": "Jami Owen",
+      "song": "EMTRAK"
+    },
+    {
+      "genre": "pop",
+      "year": 1996,
+      "singer": "Duke Sharp",
+      "song": "BLEEKO"
+    },
+    {
+      "genre": "country",
+      "year": 2017,
+      "singer": "Villarreal Casey",
+      "song": "MYOPIUM"
+    },
+    {
+      "genre": "folk",
+      "year": 1995,
+      "singer": "Deirdre Jackson",
+      "song": "OMATOM"
+    },
+    {
+      "genre": "classical",
+      "year": 2010,
+      "singer": "Marina Holden",
+      "song": "RAMEON"
+    },
+    {
+      "genre": "pop",
+      "year": 2019,
+      "singer": "Kitty Fisher",
+      "song": "QIMONK"
+    },
+    {
+      "genre": "country",
+      "year": 2019,
+      "singer": "Darla Fields",
+      "song": "NETROPIC"
+    },
+    {
+      "genre": "rock",
+      "year": 2019,
+      "singer": "Valeria Madden",
+      "song": "EZENT"
+    },
+    {
+      "genre": "folk",
+      "year": 2008,
+      "singer": "Johnnie Booker",
+      "song": "QUILTIGEN"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2001,
+      "singer": "Little Dotson",
+      "song": "CALCU"
+    },
+    {
+      "genre": "rock",
+      "year": 2016,
+      "singer": "Lang Cline",
+      "song": "MAZUDA"
+    },
+    {
+      "genre": "folk",
+      "year": 2012,
+      "singer": "Nikki Farmer",
+      "song": "ISODRIVE"
+    },
+    {
+      "genre": "rock",
+      "year": 2003,
+      "singer": "Gilmore Solomon",
+      "song": "LUNCHPOD"
+    },
+    {
+      "genre": "pop",
+      "year": 2017,
+      "singer": "Viola Clark",
+      "song": "COMTEXT"
+    },
+    {
+      "genre": "rap",
+      "year": 2020,
+      "singer": "Veronica Anthony",
+      "song": "HAWKSTER"
+    },
+    {
+      "genre": "classical",
+      "year": 2002,
+      "singer": "Yvette Mendoza",
+      "song": "GOLOGY"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2006,
+      "singer": "Miles Carpenter",
+      "song": "ELITA"
+    },
+    {
+      "genre": "rap",
+      "year": 2017,
+      "singer": "Gay Pace",
+      "song": "CUJO"
+    },
+    {
+      "genre": "pop",
+      "year": 2017,
+      "singer": "Ofelia Moran",
+      "song": "ZANILLA"
+    },
+    {
+      "genre": "classical",
+      "year": 1998,
+      "singer": "Pennington Vaughan",
+      "song": "BOILICON"
+    },
+    {
+      "genre": "pop",
+      "year": 2006,
+      "singer": "Shirley Pennington",
+      "song": "GEEKETRON"
+    },
+    {
+      "genre": "folk",
+      "year": 2001,
+      "singer": "Candice Gentry",
+      "song": "COMTREK"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2010,
+      "singer": "Sheri Mcdowell",
+      "song": "AMTAS"
+    },
+    {
+      "genre": "pop",
+      "year": 1996,
+      "singer": "Leta Bradshaw",
+      "song": "KEEG"
+    },
+    {
+      "genre": "rock",
+      "year": 2017,
+      "singer": "Stevenson Moses",
+      "song": "SENMAO"
+    },
+    {
+      "genre": "rock",
+      "year": 2016,
+      "singer": "Blanche Frye",
+      "song": "INEAR"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1995,
+      "singer": "Janet Shields",
+      "song": "SIGNITY"
+    },
+    {
+      "genre": "rock",
+      "year": 2015,
+      "singer": "Eve Simpson",
+      "song": "CENTREXIN"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2009,
+      "singer": "Noble Benjamin",
+      "song": "BYTREX"
+    },
+    {
+      "genre": "rap",
+      "year": 2013,
+      "singer": "Emerson Keller",
+      "song": "ENTROPIX"
+    },
+    {
+      "genre": "pop",
+      "year": 2006,
+      "singer": "Jennings Alston",
+      "song": "BESTO"
+    },
+    {
+      "genre": "classical",
+      "year": 1997,
+      "singer": "Poole Martin",
+      "song": "OULU"
+    },
+    {
+      "genre": "classical",
+      "year": 2019,
+      "singer": "Isabella Rhodes",
+      "song": "VITRICOMP"
+    },
+    {
+      "genre": "pop",
+      "year": 2001,
+      "singer": "Gilliam Tran",
+      "song": "TERSANKI"
+    },
+    {
+      "genre": "rap",
+      "year": 2004,
+      "singer": "Imogene Boone",
+      "song": "LYRICHORD"
+    },
+    {
+      "genre": "rap",
+      "year": 2018,
+      "singer": "Rose Hayden",
+      "song": "BIOSPAN"
+    },
+    {
+      "genre": "rap",
+      "year": 2005,
+      "singer": "Garner Huber",
+      "song": "EXOSTREAM"
+    },
+    {
+      "genre": "rap",
+      "year": 1994,
+      "singer": "Carey Schultz",
+      "song": "ULTRASURE"
+    },
+    {
+      "genre": "classical",
+      "year": 2015,
+      "singer": "Eloise Hale",
+      "song": "BILLMED"
+    },
+    {
+      "genre": "rap",
+      "year": 2020,
+      "singer": "Kara Terry",
+      "song": "UNIWORLD"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1995,
+      "singer": "Witt Patton",
+      "song": "HAIRPORT"
+    },
+    {
+      "genre": "classical",
+      "year": 2014,
+      "singer": "Hooper Brewer",
+      "song": "MULTIFLEX"
+    },
+    {
+      "genre": "rap",
+      "year": 2006,
+      "singer": "Weaver Olsen",
+      "song": "PYRAMIA"
+    },
+    {
+      "genre": "pop",
+      "year": 2008,
+      "singer": "Rogers Paul",
+      "song": "ANOCHA"
+    },
+    {
+      "genre": "folk",
+      "year": 2009,
+      "singer": "Mack Preston",
+      "song": "GEOFORM"
+    },
+    {
+      "genre": "classical",
+      "year": 2012,
+      "singer": "Donna Franklin",
+      "song": "NETPLAX"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2017,
+      "singer": "Velasquez Richardson",
+      "song": "FLEXIGEN"
+    },
+    {
+      "genre": "folk",
+      "year": 1998,
+      "singer": "Jaclyn Griffin",
+      "song": "HONOTRON"
+    },
+    {
+      "genre": "jazz",
+      "year": 2004,
+      "singer": "Hendricks Ward",
+      "song": "MANTRO"
+    },
+    {
+      "genre": "rock",
+      "year": 2001,
+      "singer": "Kris Rodriquez",
+      "song": "AEORA"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1997,
+      "singer": "Ladonna Harrison",
+      "song": "UNQ"
+    },
+    {
+      "genre": "country",
+      "year": 2010,
+      "singer": "Coffey Watkins",
+      "song": "PERMADYNE"
+    },
+    {
+      "genre": "rock",
+      "year": 2003,
+      "singer": "Hardy Mann",
+      "song": "TRIBALOG"
+    },
+    {
+      "genre": "classical",
+      "year": 2012,
+      "singer": "Sofia Spears",
+      "song": "UXMOX"
+    },
+    {
+      "genre": "jazz",
+      "year": 1995,
+      "singer": "Antonia Workman",
+      "song": "MOLTONIC"
+    },
+    {
+      "genre": "rock",
+      "year": 2001,
+      "singer": "Jimmie Cherry",
+      "song": "EARGO"
+    },
+    {
+      "genre": "rap",
+      "year": 2010,
+      "singer": "Maura Frank",
+      "song": "SNIPS"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2001,
+      "singer": "Mccall Rich",
+      "song": "ACCEL"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2008,
+      "singer": "Manning Kidd",
+      "song": "FUTURIS"
+    },
+    {
+      "genre": "rock",
+      "year": 2008,
+      "singer": "Gardner Sutton",
+      "song": "ANIXANG"
+    },
+    {
+      "genre": "folk",
+      "year": 2015,
+      "singer": "Fields Bowers",
+      "song": "BOLAX"
+    },
+    {
+      "genre": "rock",
+      "year": 2018,
+      "singer": "Wendi Mccarthy",
+      "song": "CHILLIUM"
+    },
+    {
+      "genre": "jazz",
+      "year": 1995,
+      "singer": "Mueller Graham",
+      "song": "QUILM"
+    },
+    {
+      "genre": "country",
+      "year": 2016,
+      "singer": "Jasmine Watson",
+      "song": "RONBERT"
+    },
+    {
+      "genre": "rap",
+      "year": 2008,
+      "singer": "Wolf Sexton",
+      "song": "DUOFLEX"
+    },
+    {
+      "genre": "rap",
+      "year": 1998,
+      "singer": "Carla Flowers",
+      "song": "PULZE"
+    },
+    {
+      "genre": "country",
+      "year": 2019,
+      "singer": "Foley Pena",
+      "song": "OPTICALL"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2017,
+      "singer": "Elaine Gutierrez",
+      "song": "PHORMULA"
+    },
+    {
+      "genre": "pop",
+      "year": 1994,
+      "singer": "Melissa Davidson",
+      "song": "ISOLOGICS"
+    },
+    {
+      "genre": "rap",
+      "year": 2000,
+      "singer": "Craig Peck",
+      "song": "MANGLO"
+    },
+    {
+      "genre": "pop",
+      "year": 1996,
+      "singer": "Page Rosa",
+      "song": "FURNAFIX"
+    },
+    {
+      "genre": "country",
+      "year": 2009,
+      "singer": "Haney Mcbride",
+      "song": "SENMEI"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1993,
+      "singer": "Burton Poole",
+      "song": "KNOWLYSIS"
+    },
+    {
+      "genre": "folk",
+      "year": 1992,
+      "singer": "Christi Hampton",
+      "song": "QUONATA"
+    },
+    {
+      "genre": "rock",
+      "year": 2009,
+      "singer": "Stella Maddox",
+      "song": "BOINK"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2009,
+      "singer": "Robertson Macdonald",
+      "song": "CINESANCT"
+    },
+    {
+      "genre": "rap",
+      "year": 2003,
+      "singer": "Sampson Campos",
+      "song": "RUBADUB"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1995,
+      "singer": "Berg Avery",
+      "song": "CYTRAK"
+    },
+    {
+      "genre": "country",
+      "year": 1995,
+      "singer": "Gilda Hanson",
+      "song": "KONNECT"
+    },
+    {
+      "genre": "folk",
+      "year": 2001,
+      "singer": "Patty Boyle",
+      "song": "QUAILCOM"
+    },
+    {
+      "genre": "rap",
+      "year": 2007,
+      "singer": "Reed Mcintosh",
+      "song": "ZEDALIS"
+    },
+    {
+      "genre": "jazz",
+      "year": 1996,
+      "singer": "Thomas Hubbard",
+      "song": "RODEOCEAN"
+    },
+    {
+      "genre": "country",
+      "year": 2007,
+      "singer": "Bullock Bowman",
+      "song": "ARCTIQ"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2004,
+      "singer": "Lindsay Bruce",
+      "song": "POWERNET"
+    },
+    {
+      "genre": "country",
+      "year": 2011,
+      "singer": "Potter Hardy",
+      "song": "TRASOLA"
+    },
+    {
+      "genre": "jazz",
+      "year": 2010,
+      "singer": "Eileen Bond",
+      "song": "KINETICA"
+    },
+    {
+      "genre": "country",
+      "year": 2020,
+      "singer": "Hicks Jordan",
+      "song": "OVERPLEX"
+    },
+    {
+      "genre": "jazz",
+      "year": 2018,
+      "singer": "John Bright",
+      "song": "INSURITY"
+    },
+    {
+      "genre": "classical",
+      "year": 2013,
+      "singer": "Earlene Page",
+      "song": "TASMANIA"
+    },
+    {
+      "genre": "jazz",
+      "year": 2000,
+      "singer": "Colette Wilcox",
+      "song": "TELEPARK"
+    },
+    {
+      "genre": "pop",
+      "year": 2007,
+      "singer": "Maryanne Lawson",
+      "song": "VERTIDE"
+    },
+    {
+      "genre": "pop",
+      "year": 2003,
+      "singer": "Delgado Weber",
+      "song": "EQUITOX"
+    },
+    {
+      "genre": "classical",
+      "year": 2015,
+      "singer": "Guerra Lee",
+      "song": "KOZGENE"
+    },
+    {
+      "genre": "pop",
+      "year": 1999,
+      "singer": "Church Baker",
+      "song": "FANGOLD"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2020,
+      "singer": "Etta Hutchinson",
+      "song": "GALLAXIA"
+    },
+    {
+      "genre": "country",
+      "year": 2010,
+      "singer": "Amparo Rocha",
+      "song": "OBLIQ"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2020,
+      "singer": "Addie Osborn",
+      "song": "LYRIA"
+    },
+    {
+      "genre": "jazz",
+      "year": 1993,
+      "singer": "Sylvia Garrett",
+      "song": "MAGMINA"
+    },
+    {
+      "genre": "country",
+      "year": 2001,
+      "singer": "Trujillo Hickman",
+      "song": "ZOLAREX"
+    },
+    {
+      "genre": "country",
+      "year": 2014,
+      "singer": "Beatriz Alvarez",
+      "song": "TALKALOT"
+    },
+    {
+      "genre": "jazz",
+      "year": 2002,
+      "singer": "Mcbride Mclaughlin",
+      "song": "GLOBOIL"
+    },
+    {
+      "genre": "rock",
+      "year": 2017,
+      "singer": "Phoebe Dickson",
+      "song": "FURNITECH"
+    },
+    {
+      "genre": "jazz",
+      "year": 2000,
+      "singer": "Shanna Matthews",
+      "song": "ONTALITY"
+    },
+    {
+      "genre": "rock",
+      "year": 2004,
+      "singer": "Robyn Malone",
+      "song": "PRINTSPAN"
+    },
+    {
+      "genre": "classical",
+      "year": 1993,
+      "singer": "Juana Fischer",
+      "song": "HANDSHAKE"
+    },
+    {
+      "genre": "classical",
+      "year": 1995,
+      "singer": "Small David",
+      "song": "EZENTIA"
+    },
+    {
+      "genre": "country",
+      "year": 2011,
+      "singer": "Melva Dale",
+      "song": "PYRAMI"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1995,
+      "singer": "Rivera Wilkinson",
+      "song": "EXERTA"
+    },
+    {
+      "genre": "country",
+      "year": 2004,
+      "singer": "Emily Kent",
+      "song": "VETRON"
+    },
+    {
+      "genre": "classical",
+      "year": 1992,
+      "singer": "Roseann Jefferson",
+      "song": "MICRONAUT"
+    },
+    {
+      "genre": "pop",
+      "year": 2016,
+      "singer": "Durham Strong",
+      "song": "INJOY"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2011,
+      "singer": "Alice Bean",
+      "song": "HELIXO"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2001,
+      "singer": "Chapman Burks",
+      "song": "KENEGY"
+    },
+    {
+      "genre": "pop",
+      "year": 2018,
+      "singer": "Meredith Fowler",
+      "song": "QUILK"
+    },
+    {
+      "genre": "folk",
+      "year": 1994,
+      "singer": "Katheryn Powers",
+      "song": "ECRAZE"
+    },
+    {
+      "genre": "rock",
+      "year": 1997,
+      "singer": "Morse Hodge",
+      "song": "IDETICA"
+    },
+    {
+      "genre": "country",
+      "year": 2001,
+      "singer": "Sharon Mcpherson",
+      "song": "ZAGGLES"
+    },
+    {
+      "genre": "country",
+      "year": 2011,
+      "singer": "Melendez Meadows",
+      "song": "QUALITERN"
+    },
+    {
+      "genre": "classical",
+      "year": 2008,
+      "singer": "Medina Reeves",
+      "song": "MUSANPOLY"
+    },
+    {
+      "genre": "classical",
+      "year": 1995,
+      "singer": "Wilma Owens",
+      "song": "SPRINGBEE"
+    },
+    {
+      "genre": "country",
+      "year": 2010,
+      "singer": "Rollins Osborne",
+      "song": "KANGLE"
+    },
+    {
+      "genre": "rock",
+      "year": 2017,
+      "singer": "Rachelle Sandoval",
+      "song": "TETRATREX"
+    },
+    {
+      "genre": "rap",
+      "year": 2018,
+      "singer": "Barry Whitaker",
+      "song": "TWIIST"
+    },
+    {
+      "genre": "rock",
+      "year": 1998,
+      "singer": "Lidia Higgins",
+      "song": "KOOGLE"
+    },
+    {
+      "genre": "rock",
+      "year": 1994,
+      "singer": "Holder Moreno",
+      "song": "MEDIFAX"
+    },
+    {
+      "genre": "rock",
+      "year": 2017,
+      "singer": "Washington Nielsen",
+      "song": "KOFFEE"
+    },
+    {
+      "genre": "country",
+      "year": 1995,
+      "singer": "Aurora Massey",
+      "song": "DIGIGEN"
+    },
+    {
+      "genre": "pop",
+      "year": 2016,
+      "singer": "Schmidt Clay",
+      "song": "APEXTRI"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1992,
+      "singer": "England Walsh",
+      "song": "SOPRANO"
+    },
+    {
+      "genre": "rock",
+      "year": 2020,
+      "singer": "Albert Pugh",
+      "song": "GRACKER"
+    },
+    {
+      "genre": "jazz",
+      "year": 2015,
+      "singer": "Harrell Mcfadden",
+      "song": "MANUFACT"
+    },
+    {
+      "genre": "pop",
+      "year": 1992,
+      "singer": "Flowers Duke",
+      "song": "STELAECOR"
+    },
+    {
+      "genre": "classical",
+      "year": 2006,
+      "singer": "Carlene Lowe",
+      "song": "VELITY"
+    },
+    {
+      "genre": "pop",
+      "year": 2020,
+      "singer": "Gail Lara",
+      "song": "GAZAK"
+    },
+    {
+      "genre": "rap",
+      "year": 2000,
+      "singer": "Dixie Short",
+      "song": "CONCILITY"
+    },
+    {
+      "genre": "rock",
+      "year": 2003,
+      "singer": "Silvia Delgado",
+      "song": "ANACHO"
+    },
+    {
+      "genre": "jazz",
+      "year": 2020,
+      "singer": "Collier Decker",
+      "song": "MAROPTIC"
+    },
+    {
+      "genre": "rap",
+      "year": 2020,
+      "singer": "Chandler Rodgers",
+      "song": "PIVITOL"
+    },
+    {
+      "genre": "folk",
+      "year": 2018,
+      "singer": "Morgan Solis",
+      "song": "CORECOM"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1998,
+      "singer": "Arlene Dalton",
+      "song": "CALLFLEX"
+    },
+    {
+      "genre": "rock",
+      "year": 1995,
+      "singer": "Dixon Merrill",
+      "song": "ZENCO"
+    },
+    {
+      "genre": "rock",
+      "year": 2009,
+      "singer": "Lowe Nguyen",
+      "song": "REMOTION"
+    },
+    {
+      "genre": "pop",
+      "year": 2011,
+      "singer": "Donovan Lott",
+      "song": "INSECTUS"
+    },
+    {
+      "genre": "jazz",
+      "year": 2007,
+      "singer": "Burt Wilson",
+      "song": "XURBAN"
+    },
+    {
+      "genre": "classical",
+      "year": 1995,
+      "singer": "Heather Ray",
+      "song": "SLOFAST"
+    },
+    {
+      "genre": "rap",
+      "year": 2007,
+      "singer": "Mcfadden Ballard",
+      "song": "BRAINQUIL"
+    },
+    {
+      "genre": "classical",
+      "year": 1998,
+      "singer": "Cochran Tillman",
+      "song": "PORTICO"
+    },
+    {
+      "genre": "classical",
+      "year": 2008,
+      "singer": "Mcmahon Shaw",
+      "song": "EWAVES"
+    },
+    {
+      "genre": "rock",
+      "year": 1994,
+      "singer": "Abbott Velazquez",
+      "song": "ZYTREK"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2006,
+      "singer": "Wiley Bates",
+      "song": "CUIZINE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2008,
+      "singer": "Hale Bradford",
+      "song": "COMTOURS"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2019,
+      "singer": "Olivia Walters",
+      "song": "CIRCUM"
+    },
+    {
+      "genre": "jazz",
+      "year": 1992,
+      "singer": "Dillon Stone",
+      "song": "VIASIA"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2010,
+      "singer": "Eleanor Valenzuela",
+      "song": "HOPELI"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2016,
+      "singer": "Lisa Patel",
+      "song": "NEXGENE"
+    },
+    {
+      "genre": "pop",
+      "year": 2004,
+      "singer": "Brianna Head",
+      "song": "DENTREX"
+    },
+    {
+      "genre": "classical",
+      "year": 2008,
+      "singer": "Berta Scott",
+      "song": "NIXELT"
+    },
+    {
+      "genre": "jazz",
+      "year": 2005,
+      "singer": "Dale Eaton",
+      "song": "CORIANDER"
+    },
+    {
+      "genre": "folk",
+      "year": 2006,
+      "singer": "Nicole Savage",
+      "song": "ZILLACOM"
+    },
+    {
+      "genre": "classical",
+      "year": 2020,
+      "singer": "Barr Buck",
+      "song": "GORGANIC"
+    },
+    {
+      "genre": "folk",
+      "year": 1994,
+      "singer": "Black Leonard",
+      "song": "ISONUS"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2017,
+      "singer": "Estelle Norman",
+      "song": "RODEMCO"
+    },
+    {
+      "genre": "pop",
+      "year": 2001,
+      "singer": "Lizzie Horn",
+      "song": "UPDAT"
+    },
+    {
+      "genre": "jazz",
+      "year": 2000,
+      "singer": "Annabelle Velasquez",
+      "song": "SUNCLIPSE"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1996,
+      "singer": "Kay Mclean",
+      "song": "ZAYA"
+    },
+    {
+      "genre": "country",
+      "year": 2016,
+      "singer": "Klein Lindsey",
+      "song": "OHMNET"
+    },
+    {
+      "genre": "jazz",
+      "year": 1999,
+      "singer": "Pickett Reid",
+      "song": "REALYSIS"
+    },
+    {
+      "genre": "rap",
+      "year": 1997,
+      "singer": "Ratliff Mcleod",
+      "song": "ARCHITAX"
+    },
+    {
+      "genre": "folk",
+      "year": 2008,
+      "singer": "Kane Knapp",
+      "song": "PROFLEX"
+    },
+    {
+      "genre": "rap",
+      "year": 2014,
+      "singer": "Weiss Salinas",
+      "song": "VOIPA"
+    },
+    {
+      "genre": "country",
+      "year": 2010,
+      "singer": "Hughes Quinn",
+      "song": "ISOLOGIA"
+    },
+    {
+      "genre": "classical",
+      "year": 2010,
+      "singer": "Erica Riddle",
+      "song": "KROG"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2020,
+      "singer": "Chrystal Estrada",
+      "song": "EXOSIS"
+    },
+    {
+      "genre": "classical",
+      "year": 2014,
+      "singer": "Christian Neal",
+      "song": "EARTHWAX"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2008,
+      "singer": "Gray Aguirre",
+      "song": "OBONES"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1995,
+      "singer": "Kidd Peterson",
+      "song": "ACLIMA"
+    },
+    {
+      "genre": "rap",
+      "year": 2005,
+      "singer": "Irma Payne",
+      "song": "DOGNOSIS"
+    },
+    {
+      "genre": "folk",
+      "year": 2018,
+      "singer": "Suzanne Mcneil",
+      "song": "ZEAM"
+    },
+    {
+      "genre": "classical",
+      "year": 2020,
+      "singer": "Holly Hopper",
+      "song": "SKYPLEX"
+    },
+    {
+      "genre": "classical",
+      "year": 2011,
+      "singer": "Armstrong Blair",
+      "song": "TERRAGEN"
+    },
+    {
+      "genre": "jazz",
+      "year": 2006,
+      "singer": "Day Vang",
+      "song": "KIGGLE"
+    },
+    {
+      "genre": "jazz",
+      "year": 2011,
+      "singer": "Latasha Thomas",
+      "song": "GUSHKOOL"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1995,
+      "singer": "Nicholson Singleton",
+      "song": "URBANSHEE"
+    },
+    {
+      "genre": "folk",
+      "year": 1999,
+      "singer": "Turner Combs",
+      "song": "POSHOME"
+    },
+    {
+      "genre": "folk",
+      "year": 2015,
+      "singer": "Cherry Maxwell",
+      "song": "ZIALACTIC"
+    },
+    {
+      "genre": "rap",
+      "year": 2020,
+      "singer": "Koch Orr",
+      "song": "PROGENEX"
+    },
+    {
+      "genre": "folk",
+      "year": 2003,
+      "singer": "Montoya Guerra",
+      "song": "GENMY"
+    },
+    {
+      "genre": "classical",
+      "year": 2006,
+      "singer": "Whitaker Foreman",
+      "song": "ZAPHIRE"
+    },
+    {
+      "genre": "country",
+      "year": 2011,
+      "singer": "Chang Sparks",
+      "song": "ICOLOGY"
+    },
+    {
+      "genre": "pop",
+      "year": 2006,
+      "singer": "Anderson Weiss",
+      "song": "TECHADE"
+    },
+    {
+      "genre": "pop",
+      "year": 2012,
+      "singer": "Joan Cervantes",
+      "song": "CALCULA"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2001,
+      "singer": "Fannie Mayer",
+      "song": "PHEAST"
+    },
+    {
+      "genre": "jazz",
+      "year": 1992,
+      "singer": "Battle Nieves",
+      "song": "MAINELAND"
+    },
+    {
+      "genre": "rap",
+      "year": 1995,
+      "singer": "Susana Mcknight",
+      "song": "ECOSYS"
+    },
+    {
+      "genre": "jazz",
+      "year": 2004,
+      "singer": "Williams Campbell",
+      "song": "PHARMACON"
+    },
+    {
+      "genre": "folk",
+      "year": 1999,
+      "singer": "Rice Russell",
+      "song": "WATERBABY"
+    },
+    {
+      "genre": "folk",
+      "year": 1993,
+      "singer": "Bertha Washington",
+      "song": "SPLINX"
+    },
+    {
+      "genre": "country",
+      "year": 1998,
+      "singer": "Brandy Haney",
+      "song": "GEEKMOSIS"
+    },
+    {
+      "genre": "folk",
+      "year": 2008,
+      "singer": "Opal Barnes",
+      "song": "ISOPLEX"
+    },
+    {
+      "genre": "country",
+      "year": 2009,
+      "singer": "Tessa Carr",
+      "song": "UNISURE"
+    },
+    {
+      "genre": "pop",
+      "year": 2005,
+      "singer": "Nielsen Cleveland",
+      "song": "LUXURIA"
+    },
+    {
+      "genre": "country",
+      "year": 2008,
+      "singer": "Serena Petty",
+      "song": "SULFAX"
+    },
+    {
+      "genre": "pop",
+      "year": 2001,
+      "singer": "Delacruz Sharpe",
+      "song": "COWTOWN"
+    },
+    {
+      "genre": "classical",
+      "year": 2006,
+      "singer": "Rosanna Cannon",
+      "song": "ORBIN"
+    },
+    {
+      "genre": "folk",
+      "year": 2015,
+      "singer": "Jerri West",
+      "song": "SEQUITUR"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1999,
+      "singer": "Ewing Young",
+      "song": "GLASSTEP"
+    },
+    {
+      "genre": "classical",
+      "year": 1995,
+      "singer": "Brandie Middleton",
+      "song": "EXPOSA"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2017,
+      "singer": "Ava Tyler",
+      "song": "ERSUM"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 1992,
+      "singer": "Janell Marks",
+      "song": "SONGBIRD"
+    },
+    {
+      "genre": "classical",
+      "year": 2019,
+      "singer": "Bernard Joseph",
+      "song": "GEEKNET"
+    },
+    {
+      "genre": "country",
+      "year": 2003,
+      "singer": "Huff Sloan",
+      "song": "SKINSERVE"
+    },
+    {
+      "genre": "pop",
+      "year": 2006,
+      "singer": "Marilyn Whitney",
+      "song": "KRAG"
+    },
+    {
+      "genre": "folk",
+      "year": 2013,
+      "singer": "Deana Pollard",
+      "song": "NORSUP"
+    },
+    {
+      "genre": "classical",
+      "year": 2008,
+      "singer": "Bette Ewing",
+      "song": "ZOMBOID"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2011,
+      "singer": "Jessica Myers",
+      "song": "RONELON"
+    },
+    {
+      "genre": "rap",
+      "year": 2020,
+      "singer": "Jessie Ware",
+      "song": "ARTIQ"
+    },
+    {
+      "genre": "pop",
+      "year": 1997,
+      "singer": "Terrie Vaughn",
+      "song": "CUBICIDE"
+    },
+    {
+      "genre": "folk",
+      "year": 2002,
+      "singer": "Guzman Bowen",
+      "song": "INTERFIND"
+    },
+    {
+      "genre": "rock",
+      "year": 1992,
+      "singer": "Kristin Johns",
+      "song": "ZENTHALL"
+    },
+    {
+      "genre": "pop",
+      "year": 1992,
+      "singer": "Whitney Baxter",
+      "song": "RECRITUBE"
+    },
+    {
+      "genre": "rock",
+      "year": 1997,
+      "singer": "Katie Morse",
+      "song": "ENDIPIN"
+    },
+    {
+      "genre": "jazz",
+      "year": 2006,
+      "singer": "Savannah Stuart",
+      "song": "POLARIA"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2001,
+      "singer": "Shepherd Puckett",
+      "song": "MEDESIGN"
+    },
+    {
+      "genre": "pop",
+      "year": 2019,
+      "singer": "Dalton Austin",
+      "song": "IPLAX"
+    },
+    {
+      "genre": "pop",
+      "year": 2007,
+      "singer": "Rachel Camacho",
+      "song": "ECLIPTO"
+    },
+    {
+      "genre": "classical",
+      "year": 2005,
+      "singer": "Jana England",
+      "song": "QUANTALIA"
+    },
+    {
+      "genre": "rock",
+      "year": 1996,
+      "singer": "Tara Browning",
+      "song": "SYNKGEN"
+    },
+    {
+      "genre": "country",
+      "year": 1998,
+      "singer": "Joann Gonzalez",
+      "song": "JETSILK"
+    },
+    {
+      "genre": "country",
+      "year": 1996,
+      "singer": "Oneill Mcgowan",
+      "song": "FARMEX"
+    },
+    {
+      "genre": "pop",
+      "year": 2017,
+      "singer": "Bettye Branch",
+      "song": "EXOVENT"
+    },
+    {
+      "genre": "jazz",
+      "year": 1994,
+      "singer": "Elisa Weeks",
+      "song": "SONIQUE"
+    },
+    {
+      "genre": "jazz",
+      "year": 1999,
+      "singer": "Gaines Simon",
+      "song": "XERONK"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2007,
+      "singer": "Cummings Vincent",
+      "song": "ZENSUS"
+    },
+    {
+      "genre": "rap",
+      "year": 1997,
+      "singer": "Elise Hurley",
+      "song": "PODUNK"
+    },
+    {
+      "genre": "rock",
+      "year": 2011,
+      "singer": "Carpenter Miranda",
+      "song": "BLUPLANET"
+    },
+    {
+      "genre": "classical",
+      "year": 2000,
+      "singer": "Brandi Greer",
+      "song": "PREMIANT"
+    },
+    {
+      "genre": "rock",
+      "year": 1994,
+      "singer": "Sherman Bass",
+      "song": "XIXAN"
+    },
+    {
+      "genre": "pop",
+      "year": 2001,
+      "singer": "Constance Emerson",
+      "song": "LUMBREX"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2014,
+      "singer": "Yvonne Gaines",
+      "song": "ENJOLA"
+    },
+    {
+      "genre": "pop",
+      "year": 2003,
+      "singer": "Ila Vega",
+      "song": "EMERGENT"
+    },
+    {
+      "genre": "heavy metal",
+      "year": 2015,
+      "singer": "Casey Sykes",
+      "song": "OPTYK"
+    },
+    {
+      "genre": "pop",
+      "year": 2019,
+      "singer": "Monique Foley",
+      "song": "PLASTO"
+    },
+    {
+      "genre": "rap",
+      "year": 1997,
+      "singer": "Margie Green",
+      "song": "ANIMALIA"
+    },
+    {
+      "genre": "rock",
+      "year": 2010,
+      "singer": "Helga Gardner",
+      "song": "ZERBINA"
+    },
+    {
+      "genre": "rap",
+      "year": 2010,
+      "singer": "Beverly Sheppard",
+      "song": "DYMI"
+    },
+    {
+      "genre": "folk",
+      "year": 2005,
+      "singer": "Dionne Chang",
+      "song": "COMVEYOR"
+    }
+  ]
